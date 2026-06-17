@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+models/*.pkl
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+
+# Optional: ignore large datasets
+# datasets/

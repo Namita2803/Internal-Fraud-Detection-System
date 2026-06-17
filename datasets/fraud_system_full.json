@@ -1,0 +1,6773 @@
+{
+  "employees": [
+    {
+      "employee_id": "EMP1000",
+      "employee_name": "Raka Saputra",
+      "department": "Operations",
+      "position": "Manager",
+      "grade": "G1",
+      "tenure_years": 4.7
+    },
+    {
+      "employee_id": "EMP1001",
+      "employee_name": "Salsa Nugraha",
+      "department": "Marketing",
+      "position": "Senior",
+      "grade": "G1",
+      "tenure_years": 2.8
+    },
+    {
+      "employee_id": "EMP1002",
+      "employee_name": "Tegar Maharani",
+      "department": "IT",
+      "position": "Supervisor",
+      "grade": "G3",
+      "tenure_years": 1.4
+    },
+    {
+      "employee_id": "EMP1003",
+      "employee_name": "Ulfa Kusuma",
+      "department": "Marketing",
+      "position": "Manager",
+      "grade": "G3",
+      "tenure_years": 2.2
+    },
+    {
+      "employee_id": "EMP1004",
+      "employee_name": "Vina Permata",
+      "department": "Marketing",
+      "position": "Staff",
+      "grade": "G3",
+      "tenure_years": 9.4
+    },
+    {
+      "employee_id": "EMP1005",
+      "employee_name": "Wahyu Wijaya",
+      "department": "HR",
+      "position": "Supervisor",
+      "grade": "G4",
+      "tenure_years": 6.6
+    },
+    {
+      "employee_id": "EMP1006",
+      "employee_name": "Yoga Lestari",
+      "department": "IT",
+      "position": "Senior",
+      "grade": "G1",
+      "tenure_years": 5.4
+    },
+    {
+      "employee_id": "EMP1007",
+      "employee_name": "Zahra Hidayat",
+      "department": "IT",
+      "position": "Staff",
+      "grade": "G4",
+      "tenure_years": 6.7
+    },
+    {
+      "employee_id": "EMP1008",
+      "employee_name": "Ari Setiawan",
+      "department": "IT",
+      "position": "Staff",
+      "grade": "G3",
+      "tenure_years": 4.6
+    },
+    {
+      "employee_id": "EMP1009",
+      "employee_name": "Bagas Maulana",
+      "department": "Marketing",
+      "position": "Staff",
+      "grade": "G1",
+      "tenure_years": 7.4
+    },
+    {
+      "employee_id": "EMP1010",
+      "employee_name": "Cahya Kirana",
+      "department": "Operations",
+      "position": "Supervisor",
+      "grade": "G4",
+      "tenure_years": 1.0
+    },
+    {
+      "employee_id": "EMP1011",
+      "employee_name": "Dimas Santoso",
+      "department": "IT",
+      "position": "Senior",
+      "grade": "G4",
+      "tenure_years": 5.9
+    },
+    {
+      "employee_id": "EMP1012",
+      "employee_name": "Eka Cahyani",
+      "department": "Marketing",
+      "position": "Staff",
+      "grade": "G3",
+      "tenure_years": 2.0
+    },
+    {
+      "employee_id": "EMP1013",
+      "employee_name": "Farhan Ramadhan",
+      "department": "HR",
+      "position": "Manager",
+      "grade": "G1",
+      "tenure_years": 1.6
+    },
+    {
+      "employee_id": "EMP1014",
+      "employee_name": "Gilang Winata",
+      "department": "Operations",
+      "position": "Staff",
+      "grade": "G3",
+      "tenure_years": 3.7
+    },
+    {
+      "employee_id": "EMP1015",
+      "employee_name": "Hana Handoko",
+      "department": "HR",
+      "position": "Staff",
+      "grade": "G1",
+      "tenure_years": 1.4
+    },
+    {
+      "employee_id": "EMP1016",
+      "employee_name": "Indra Puspita",
+      "department": "Operations",
+      "position": "Supervisor",
+      "grade": "G5",
+      "tenure_years": 1.4
+    },
+    {
+      "employee_id": "EMP1017",
+      "employee_name": "Jihan Firmansyah",
+      "department": "Marketing",
+      "position": "Supervisor",
+      "grade": "G2",
+      "tenure_years": 3.5
+    },
+    {
+      "employee_id": "EMP1018",
+      "employee_name": "Kevin Pratama",
+      "department": "Finance",
+      "position": "Senior",
+      "grade": "G2",
+      "tenure_years": 9.8
+    },
+    {
+      "employee_id": "EMP1019",
+      "employee_name": "Laras Saputra",
+      "department": "Operations",
+      "position": "Manager",
+      "grade": "G2",
+      "tenure_years": 2.2
+    },
+    {
+      "employee_id": "EMP1020",
+      "employee_name": "Mira Nugraha",
+      "department": "HR",
+      "position": "Supervisor",
+      "grade": "G3",
+      "tenure_years": 0.7
+    },
+    {
+      "employee_id": "EMP1021",
+      "employee_name": "Nadia Maharani",
+      "department": "Marketing",
+      "position": "Staff",
+      "grade": "G5",
+      "tenure_years": 7.8
+    },
+    {
+      "employee_id": "EMP1022",
+      "employee_name": "Oka Kusuma",
+      "department": "Operations",
+      "position": "Senior",
+      "grade": "G1",
+      "tenure_years": 8.2
+    },
+    {
+      "employee_id": "EMP1023",
+      "employee_name": "Putri Permata",
+      "department": "Finance",
+      "position": "Staff",
+      "grade": "G4",
+      "tenure_years": 3.8
+    },
+    {
+      "employee_id": "EMP1024",
+      "employee_name": "Raka Wijaya",
+      "department": "Finance",
+      "position": "Staff",
+      "grade": "G1",
+      "tenure_years": 4.9
+    },
+    {
+      "employee_id": "EMP1025",
+      "employee_name": "Salsa Lestari",
+      "department": "IT",
+      "position": "Supervisor",
+      "grade": "G4",
+      "tenure_years": 6.7
+    },
+    {
+      "employee_id": "EMP1026",
+      "employee_name": "Tegar Hidayat",
+      "department": "IT",
+      "position": "Senior",
+      "grade": "G1",
+      "tenure_years": 1.0
+    },
+    {
+      "employee_id": "EMP1027",
+      "employee_name": "Ulfa Ananda",
+      "department": "HR",
+      "position": "Manager",
+      "grade": "G5",
+      "tenure_years": 9.5
+    },
+    {
+      "employee_id": "EMP1028",
+      "employee_name": "Vina Setiawan",
+      "department": "Operations",
+      "position": "Manager",
+      "grade": "G4",
+      "tenure_years": 8.9
+    },
+    {
+      "employee_id": "EMP1029",
+      "employee_name": "Wahyu Maulana",
+      "department": "Operations",
+      "position": "Supervisor",
+      "grade": "G3",
+      "tenure_years": 3.0
+    },
+    {
+      "employee_id": "EMP1030",
+      "employee_name": "Yoga Kirana",
+      "department": "IT",
+      "position": "Supervisor",
+      "grade": "G1",
+      "tenure_years": 0.6
+    },
+    {
+      "employee_id": "EMP1031",
+      "employee_name": "Zahra Santoso",
+      "department": "Operations",
+      "position": "Senior",
+      "grade": "G1",
+      "tenure_years": 9.4
+    },
+    {
+      "employee_id": "EMP1032",
+      "employee_name": "Ari Ramadhan",
+      "department": "Operations",
+      "position": "Manager",
+      "grade": "G4",
+      "tenure_years": 5.3
+    },
+    {
+      "employee_id": "EMP1033",
+      "employee_name": "Bagas Winata",
+      "department": "Finance",
+      "position": "Manager",
+      "grade": "G3",
+      "tenure_years": 5.6
+    },
+    {
+      "employee_id": "EMP1034",
+      "employee_name": "Cahya Handoko",
+      "department": "IT",
+      "position": "Manager",
+      "grade": "G3",
+      "tenure_years": 7.0
+    },
+    {
+      "employee_id": "EMP1035",
+      "employee_name": "Dimas Puspita",
+      "department": "Marketing",
+      "position": "Staff",
+      "grade": "G5",
+      "tenure_years": 6.4
+    },
+    {
+      "employee_id": "EMP1036",
+      "employee_name": "Eka Firmansyah",
+      "department": "IT",
+      "position": "Manager",
+      "grade": "G3",
+      "tenure_years": 9.5
+    },
+    {
+      "employee_id": "EMP1037",
+      "employee_name": "Farhan Pratama",
+      "department": "Marketing",
+      "position": "Staff",
+      "grade": "G3",
+      "tenure_years": 9.5
+    },
+    {
+      "employee_id": "EMP1038",
+      "employee_name": "Gilang Saputra",
+      "department": "Finance",
+      "position": "Senior",
+      "grade": "G3",
+      "tenure_years": 8.7
+    },
+    {
+      "employee_id": "EMP1039",
+      "employee_name": "Hana Nugraha",
+      "department": "HR",
+      "position": "Staff",
+      "grade": "G2",
+      "tenure_years": 6.5
+    },
+    {
+      "employee_id": "EMP1040",
+      "employee_name": "Indra Maharani",
+      "department": "Operations",
+      "position": "Senior",
+      "grade": "G5",
+      "tenure_years": 8.1
+    },
+    {
+      "employee_id": "EMP1041",
+      "employee_name": "Jihan Kusuma",
+      "department": "Finance",
+      "position": "Manager",
+      "grade": "G1",
+      "tenure_years": 6.9
+    },
+    {
+      "employee_id": "EMP1042",
+      "employee_name": "Kevin Permata",
+      "department": "Operations",
+      "position": "Manager",
+      "grade": "G4",
+      "tenure_years": 5.9
+    },
+    {
+      "employee_id": "EMP1043",
+      "employee_name": "Laras Wijaya",
+      "department": "HR",
+      "position": "Senior",
+      "grade": "G1",
+      "tenure_years": 1.7
+    },
+    {
+      "employee_id": "EMP1044",
+      "employee_name": "Mira Lestari",
+      "department": "HR",
+      "position": "Supervisor",
+      "grade": "G5",
+      "tenure_years": 8.2
+    },
+    {
+      "employee_id": "EMP1045",
+      "employee_name": "Nadia Hidayat",
+      "department": "Finance",
+      "position": "Senior",
+      "grade": "G4",
+      "tenure_years": 8.3
+    },
+    {
+      "employee_id": "EMP1046",
+      "employee_name": "Oka Ananda",
+      "department": "HR",
+      "position": "Supervisor",
+      "grade": "G5",
+      "tenure_years": 6.4
+    },
+    {
+      "employee_id": "EMP1047",
+      "employee_name": "Putri Setiawan",
+      "department": "Marketing",
+      "position": "Staff",
+      "grade": "G3",
+      "tenure_years": 8.3
+    },
+    {
+      "employee_id": "EMP1048",
+      "employee_name": "Raka Maulana",
+      "department": "HR",
+      "position": "Staff",
+      "grade": "G4",
+      "tenure_years": 6.7
+    },
+    {
+      "employee_id": "EMP1049",
+      "employee_name": "Salsa Kirana",
+      "department": "Operations",
+      "position": "Staff",
+      "grade": "G3",
+      "tenure_years": 2.5
+    },
+    {
+      "employee_id": "EMP1050",
+      "employee_name": "Tegar Santoso",
+      "department": "Operations",
+      "position": "Manager",
+      "grade": "G1",
+      "tenure_years": 3.1
+    },
+    {
+      "employee_id": "EMP1051",
+      "employee_name": "Ulfa Cahyani",
+      "department": "Operations",
+      "position": "Staff",
+      "grade": "G1",
+      "tenure_years": 2.5
+    },
+    {
+      "employee_id": "EMP1052",
+      "employee_name": "Vina Ramadhan",
+      "department": "Operations",
+      "position": "Supervisor",
+      "grade": "G4",
+      "tenure_years": 4.1
+    },
+    {
+      "employee_id": "EMP1053",
+      "employee_name": "Wahyu Winata",
+      "department": "Marketing",
+      "position": "Staff",
+      "grade": "G4",
+      "tenure_years": 0.9
+    },
+    {
+      "employee_id": "EMP1054",
+      "employee_name": "Yoga Handoko",
+      "department": "IT",
+      "position": "Senior",
+      "grade": "G5",
+      "tenure_years": 6.4
+    },
+    {
+      "employee_id": "EMP1055",
+      "employee_name": "Zahra Puspita",
+      "department": "Finance",
+      "position": "Senior",
+      "grade": "G5",
+      "tenure_years": 3.7
+    },
+    {
+      "employee_id": "EMP1056",
+      "employee_name": "Ari Pratama",
+      "department": "Operations",
+      "position": "Manager",
+      "grade": "G3",
+      "tenure_years": 6.7
+    },
+    {
+      "employee_id": "EMP1057",
+      "employee_name": "Bagas Saputra",
+      "department": "HR",
+      "position": "Senior",
+      "grade": "G4",
+      "tenure_years": 4.2
+    },
+    {
+      "employee_id": "EMP1058",
+      "employee_name": "Cahya Nugraha",
+      "department": "Operations",
+      "position": "Supervisor",
+      "grade": "G1",
+      "tenure_years": 7.0
+    },
+    {
+      "employee_id": "EMP1059",
+      "employee_name": "Dimas Maharani",
+      "department": "HR",
+      "position": "Staff",
+      "grade": "G5",
+      "tenure_years": 3.7
+    },
+    {
+      "employee_id": "EMP1060",
+      "employee_name": "Eka Kusuma",
+      "department": "HR",
+      "position": "Manager",
+      "grade": "G5",
+      "tenure_years": 3.0
+    },
+    {
+      "employee_id": "EMP1061",
+      "employee_name": "Farhan Permata",
+      "department": "Operations",
+      "position": "Staff",
+      "grade": "G1",
+      "tenure_years": 5.2
+    },
+    {
+      "employee_id": "EMP1062",
+      "employee_name": "Gilang Wijaya",
+      "department": "Marketing",
+      "position": "Staff",
+      "grade": "G5",
+      "tenure_years": 7.1
+    },
+    {
+      "employee_id": "EMP1063",
+      "employee_name": "Hana Lestari",
+      "department": "HR",
+      "position": "Supervisor",
+      "grade": "G3",
+      "tenure_years": 3.8
+    },
+    {
+      "employee_id": "EMP1064",
+      "employee_name": "Indra Hidayat",
+      "department": "HR",
+      "position": "Senior",
+      "grade": "G4",
+      "tenure_years": 9.4
+    },
+    {
+      "employee_id": "EMP1065",
+      "employee_name": "Jihan Ananda",
+      "department": "Operations",
+      "position": "Senior",
+      "grade": "G1",
+      "tenure_years": 0.9
+    },
+    {
+      "employee_id": "EMP1066",
+      "employee_name": "Kevin Setiawan",
+      "department": "HR",
+      "position": "Staff",
+      "grade": "G4",
+      "tenure_years": 4.5
+    },
+    {
+      "employee_id": "EMP1067",
+      "employee_name": "Laras Maulana",
+      "department": "HR",
+      "position": "Manager",
+      "grade": "G5",
+      "tenure_years": 9.7
+    },
+    {
+      "employee_id": "EMP1068",
+      "employee_name": "Mira Kirana",
+      "department": "Operations",
+      "position": "Senior",
+      "grade": "G5",
+      "tenure_years": 5.7
+    },
+    {
+      "employee_id": "EMP1069",
+      "employee_name": "Nadia Santoso",
+      "department": "Operations",
+      "position": "Manager",
+      "grade": "G1",
+      "tenure_years": 4.5
+    },
+    {
+      "employee_id": "EMP1070",
+      "employee_name": "Oka Cahyani",
+      "department": "Finance",
+      "position": "Senior",
+      "grade": "G3",
+      "tenure_years": 5.9
+    },
+    {
+      "employee_id": "EMP1071",
+      "employee_name": "Putri Ramadhan",
+      "department": "Marketing",
+      "position": "Manager",
+      "grade": "G2",
+      "tenure_years": 6.0
+    },
+    {
+      "employee_id": "EMP1072",
+      "employee_name": "Raka Winata",
+      "department": "Marketing",
+      "position": "Supervisor",
+      "grade": "G1",
+      "tenure_years": 7.5
+    },
+    {
+      "employee_id": "EMP1073",
+      "employee_name": "Salsa Handoko",
+      "department": "HR",
+      "position": "Manager",
+      "grade": "G2",
+      "tenure_years": 1.7
+    },
+    {
+      "employee_id": "EMP1074",
+      "employee_name": "Tegar Puspita",
+      "department": "Marketing",
+      "position": "Supervisor",
+      "grade": "G2",
+      "tenure_years": 2.9
+    },
+    {
+      "employee_id": "EMP1075",
+      "employee_name": "Ulfa Firmansyah",
+      "department": "HR",
+      "position": "Supervisor",
+      "grade": "G3",
+      "tenure_years": 6.0
+    },
+    {
+      "employee_id": "EMP1076",
+      "employee_name": "Vina Pratama",
+      "department": "Finance",
+      "position": "Manager",
+      "grade": "G2",
+      "tenure_years": 8.7
+    },
+    {
+      "employee_id": "EMP1077",
+      "employee_name": "Wahyu Saputra",
+      "department": "Operations",
+      "position": "Supervisor",
+      "grade": "G2",
+      "tenure_years": 5.8
+    },
+    {
+      "employee_id": "EMP1078",
+      "employee_name": "Yoga Nugraha",
+      "department": "Operations",
+      "position": "Staff",
+      "grade": "G3",
+      "tenure_years": 2.8
+    },
+    {
+      "employee_id": "EMP1079",
+      "employee_name": "Zahra Maharani",
+      "department": "Operations",
+      "position": "Supervisor",
+      "grade": "G2",
+      "tenure_years": 7.0
+    },
+    {
+      "employee_id": "EMP1080",
+      "employee_name": "Ari Permata",
+      "department": "Marketing",
+      "position": "Senior",
+      "grade": "G2",
+      "tenure_years": 7.5
+    },
+    {
+      "employee_id": "EMP1081",
+      "employee_name": "Bagas Wijaya",
+      "department": "Finance",
+      "position": "Manager",
+      "grade": "G2",
+      "tenure_years": 2.8
+    },
+    {
+      "employee_id": "EMP1082",
+      "employee_name": "Cahya Lestari",
+      "department": "Marketing",
+      "position": "Staff",
+      "grade": "G1",
+      "tenure_years": 4.1
+    },
+    {
+      "employee_id": "EMP1083",
+      "employee_name": "Dimas Hidayat",
+      "department": "Marketing",
+      "position": "Manager",
+      "grade": "G1",
+      "tenure_years": 5.6
+    },
+    {
+      "employee_id": "EMP1084",
+      "employee_name": "Eka Ananda",
+      "department": "Finance",
+      "position": "Senior",
+      "grade": "G1",
+      "tenure_years": 5.2
+    },
+    {
+      "employee_id": "EMP1085",
+      "employee_name": "Farhan Setiawan",
+      "department": "Finance",
+      "position": "Senior",
+      "grade": "G3",
+      "tenure_years": 4.2
+    },
+    {
+      "employee_id": "EMP1086",
+      "employee_name": "Gilang Maulana",
+      "department": "Finance",
+      "position": "Senior",
+      "grade": "G5",
+      "tenure_years": 3.3
+    },
+    {
+      "employee_id": "EMP1087",
+      "employee_name": "Hana Kirana",
+      "department": "Finance",
+      "position": "Supervisor",
+      "grade": "G2",
+      "tenure_years": 1.4
+    },
+    {
+      "employee_id": "EMP1088",
+      "employee_name": "Indra Santoso",
+      "department": "Operations",
+      "position": "Supervisor",
+      "grade": "G2",
+      "tenure_years": 1.0
+    },
+    {
+      "employee_id": "EMP1089",
+      "employee_name": "Jihan Cahyani",
+      "department": "IT",
+      "position": "Manager",
+      "grade": "G3",
+      "tenure_years": 9.6
+    },
+    {
+      "employee_id": "EMP1090",
+      "employee_name": "Kevin Ramadhan",
+      "department": "IT",
+      "position": "Manager",
+      "grade": "G2",
+      "tenure_years": 8.5
+    },
+    {
+      "employee_id": "EMP1091",
+      "employee_name": "Laras Winata",
+      "department": "Finance",
+      "position": "Staff",
+      "grade": "G1",
+      "tenure_years": 3.9
+    },
+    {
+      "employee_id": "EMP1092",
+      "employee_name": "Mira Handoko",
+      "department": "IT",
+      "position": "Staff",
+      "grade": "G5",
+      "tenure_years": 9.6
+    },
+    {
+      "employee_id": "EMP1093",
+      "employee_name": "Nadia Puspita",
+      "department": "IT",
+      "position": "Manager",
+      "grade": "G4",
+      "tenure_years": 6.9
+    },
+    {
+      "employee_id": "EMP1094",
+      "employee_name": "Oka Firmansyah",
+      "department": "Finance",
+      "position": "Supervisor",
+      "grade": "G2",
+      "tenure_years": 5.1
+    },
+    {
+      "employee_id": "EMP1095",
+      "employee_name": "Putri Pratama",
+      "department": "IT",
+      "position": "Senior",
+      "grade": "G1",
+      "tenure_years": 5.2
+    },
+    {
+      "employee_id": "EMP1096",
+      "employee_name": "Raka Saputra",
+      "department": "Marketing",
+      "position": "Manager",
+      "grade": "G4",
+      "tenure_years": 1.3
+    },
+    {
+      "employee_id": "EMP1097",
+      "employee_name": "Salsa Nugraha",
+      "department": "HR",
+      "position": "Staff",
+      "grade": "G5",
+      "tenure_years": 1.4
+    },
+    {
+      "employee_id": "EMP1098",
+      "employee_name": "Tegar Maharani",
+      "department": "HR",
+      "position": "Supervisor",
+      "grade": "G4",
+      "tenure_years": 6.2
+    },
+    {
+      "employee_id": "EMP1099",
+      "employee_name": "Ulfa Kusuma",
+      "department": "Finance",
+      "position": "Manager",
+      "grade": "G1",
+      "tenure_years": 5.8
+    },
+    {
+      "employee_id": "EMP1100",
+      "employee_name": "Vina Permata",
+      "department": "Operations",
+      "position": "Manager",
+      "grade": "G4",
+      "tenure_years": 2.5
+    },
+    {
+      "employee_id": "EMP1101",
+      "employee_name": "Wahyu Wijaya",
+      "department": "Finance",
+      "position": "Supervisor",
+      "grade": "G3",
+      "tenure_years": 9.5
+    },
+    {
+      "employee_id": "EMP1102",
+      "employee_name": "Yoga Lestari",
+      "department": "Operations",
+      "position": "Manager",
+      "grade": "G4",
+      "tenure_years": 7.9
+    },
+    {
+      "employee_id": "EMP1103",
+      "employee_name": "Zahra Hidayat",
+      "department": "HR",
+      "position": "Supervisor",
+      "grade": "G2",
+      "tenure_years": 1.6
+    },
+    {
+      "employee_id": "EMP1104",
+      "employee_name": "Ari Setiawan",
+      "department": "Finance",
+      "position": "Senior",
+      "grade": "G2",
+      "tenure_years": 9.3
+    },
+    {
+      "employee_id": "EMP1105",
+      "employee_name": "Bagas Maulana",
+      "department": "Marketing",
+      "position": "Supervisor",
+      "grade": "G3",
+      "tenure_years": 9.8
+    },
+    {
+      "employee_id": "EMP1106",
+      "employee_name": "Cahya Kirana",
+      "department": "IT",
+      "position": "Supervisor",
+      "grade": "G1",
+      "tenure_years": 10.0
+    },
+    {
+      "employee_id": "EMP1107",
+      "employee_name": "Dimas Santoso",
+      "department": "Operations",
+      "position": "Supervisor",
+      "grade": "G2",
+      "tenure_years": 1.0
+    },
+    {
+      "employee_id": "EMP1108",
+      "employee_name": "Eka Cahyani",
+      "department": "IT",
+      "position": "Manager",
+      "grade": "G5",
+      "tenure_years": 7.5
+    },
+    {
+      "employee_id": "EMP1109",
+      "employee_name": "Farhan Ramadhan",
+      "department": "IT",
+      "position": "Manager",
+      "grade": "G2",
+      "tenure_years": 5.7
+    },
+    {
+      "employee_id": "EMP1110",
+      "employee_name": "Gilang Winata",
+      "department": "Finance",
+      "position": "Supervisor",
+      "grade": "G2",
+      "tenure_years": 7.2
+    },
+    {
+      "employee_id": "EMP1111",
+      "employee_name": "Hana Handoko",
+      "department": "IT",
+      "position": "Manager",
+      "grade": "G1",
+      "tenure_years": 9.7
+    },
+    {
+      "employee_id": "EMP1112",
+      "employee_name": "Indra Puspita",
+      "department": "Marketing",
+      "position": "Staff",
+      "grade": "G4",
+      "tenure_years": 7.0
+    },
+    {
+      "employee_id": "EMP1113",
+      "employee_name": "Jihan Firmansyah",
+      "department": "IT",
+      "position": "Staff",
+      "grade": "G2",
+      "tenure_years": 8.5
+    },
+    {
+      "employee_id": "EMP1114",
+      "employee_name": "Kevin Pratama",
+      "department": "Finance",
+      "position": "Manager",
+      "grade": "G3",
+      "tenure_years": 8.7
+    },
+    {
+      "employee_id": "EMP1115",
+      "employee_name": "Laras Saputra",
+      "department": "Marketing",
+      "position": "Manager",
+      "grade": "G4",
+      "tenure_years": 8.5
+    },
+    {
+      "employee_id": "EMP1116",
+      "employee_name": "Mira Nugraha",
+      "department": "HR",
+      "position": "Supervisor",
+      "grade": "G5",
+      "tenure_years": 4.5
+    },
+    {
+      "employee_id": "EMP1117",
+      "employee_name": "Nadia Maharani",
+      "department": "IT",
+      "position": "Senior",
+      "grade": "G1",
+      "tenure_years": 2.6
+    },
+    {
+      "employee_id": "EMP1118",
+      "employee_name": "Oka Kusuma",
+      "department": "Finance",
+      "position": "Manager",
+      "grade": "G5",
+      "tenure_years": 4.3
+    },
+    {
+      "employee_id": "EMP1119",
+      "employee_name": "Putri Permata",
+      "department": "HR",
+      "position": "Staff",
+      "grade": "G4",
+      "tenure_years": 9.0
+    },
+    {
+      "employee_id": "EMP1120",
+      "employee_name": "Raka Wijaya",
+      "department": "HR",
+      "position": "Supervisor",
+      "grade": "G4",
+      "tenure_years": 1.9
+    },
+    {
+      "employee_id": "EMP1121",
+      "employee_name": "Salsa Lestari",
+      "department": "Operations",
+      "position": "Manager",
+      "grade": "G4",
+      "tenure_years": 5.4
+    },
+    {
+      "employee_id": "EMP1122",
+      "employee_name": "Tegar Hidayat",
+      "department": "Marketing",
+      "position": "Staff",
+      "grade": "G5",
+      "tenure_years": 2.7
+    },
+    {
+      "employee_id": "EMP1123",
+      "employee_name": "Ulfa Ananda",
+      "department": "IT",
+      "position": "Staff",
+      "grade": "G4",
+      "tenure_years": 6.0
+    },
+    {
+      "employee_id": "EMP1124",
+      "employee_name": "Vina Setiawan",
+      "department": "Finance",
+      "position": "Senior",
+      "grade": "G5",
+      "tenure_years": 8.7
+    },
+    {
+      "employee_id": "EMP1125",
+      "employee_name": "Wahyu Maulana",
+      "department": "Operations",
+      "position": "Supervisor",
+      "grade": "G4",
+      "tenure_years": 8.9
+    },
+    {
+      "employee_id": "EMP1126",
+      "employee_name": "Yoga Kirana",
+      "department": "Marketing",
+      "position": "Supervisor",
+      "grade": "G3",
+      "tenure_years": 2.7
+    },
+    {
+      "employee_id": "EMP1127",
+      "employee_name": "Zahra Santoso",
+      "department": "Operations",
+      "position": "Senior",
+      "grade": "G4",
+      "tenure_years": 9.1
+    },
+    {
+      "employee_id": "EMP1128",
+      "employee_name": "Ari Ramadhan",
+      "department": "Marketing",
+      "position": "Senior",
+      "grade": "G5",
+      "tenure_years": 6.1
+    },
+    {
+      "employee_id": "EMP1129",
+      "employee_name": "Bagas Winata",
+      "department": "Marketing",
+      "position": "Supervisor",
+      "grade": "G2",
+      "tenure_years": 3.8
+    },
+    {
+      "employee_id": "EMP1130",
+      "employee_name": "Cahya Handoko",
+      "department": "IT",
+      "position": "Supervisor",
+      "grade": "G4",
+      "tenure_years": 7.2
+    },
+    {
+      "employee_id": "EMP1131",
+      "employee_name": "Dimas Puspita",
+      "department": "Marketing",
+      "position": "Manager",
+      "grade": "G2",
+      "tenure_years": 5.1
+    },
+    {
+      "employee_id": "EMP1132",
+      "employee_name": "Eka Firmansyah",
+      "department": "Operations",
+      "position": "Manager",
+      "grade": "G3",
+      "tenure_years": 4.1
+    },
+    {
+      "employee_id": "EMP1133",
+      "employee_name": "Farhan Pratama",
+      "department": "Marketing",
+      "position": "Senior",
+      "grade": "G1",
+      "tenure_years": 7.2
+    },
+    {
+      "employee_id": "EMP1134",
+      "employee_name": "Gilang Saputra",
+      "department": "IT",
+      "position": "Manager",
+      "grade": "G3",
+      "tenure_years": 2.9
+    },
+    {
+      "employee_id": "EMP1135",
+      "employee_name": "Hana Nugraha",
+      "department": "IT",
+      "position": "Staff",
+      "grade": "G4",
+      "tenure_years": 3.6
+    },
+    {
+      "employee_id": "EMP1136",
+      "employee_name": "Indra Maharani",
+      "department": "Operations",
+      "position": "Manager",
+      "grade": "G2",
+      "tenure_years": 4.6
+    },
+    {
+      "employee_id": "EMP1137",
+      "employee_name": "Jihan Kusuma",
+      "department": "HR",
+      "position": "Manager",
+      "grade": "G2",
+      "tenure_years": 2.9
+    },
+    {
+      "employee_id": "EMP1138",
+      "employee_name": "Kevin Permata",
+      "department": "HR",
+      "position": "Staff",
+      "grade": "G5",
+      "tenure_years": 4.3
+    },
+    {
+      "employee_id": "EMP1139",
+      "employee_name": "Laras Wijaya",
+      "department": "Marketing",
+      "position": "Senior",
+      "grade": "G2",
+      "tenure_years": 5.9
+    },
+    {
+      "employee_id": "EMP1140",
+      "employee_name": "Mira Lestari",
+      "department": "Finance",
+      "position": "Staff",
+      "grade": "G5",
+      "tenure_years": 7.5
+    },
+    {
+      "employee_id": "EMP1141",
+      "employee_name": "Nadia Hidayat",
+      "department": "Marketing",
+      "position": "Manager",
+      "grade": "G1",
+      "tenure_years": 7.8
+    },
+    {
+      "employee_id": "EMP1142",
+      "employee_name": "Oka Ananda",
+      "department": "Operations",
+      "position": "Senior",
+      "grade": "G4",
+      "tenure_years": 8.3
+    },
+    {
+      "employee_id": "EMP1143",
+      "employee_name": "Putri Setiawan",
+      "department": "Operations",
+      "position": "Manager",
+      "grade": "G5",
+      "tenure_years": 7.6
+    },
+    {
+      "employee_id": "EMP1144",
+      "employee_name": "Raka Maulana",
+      "department": "Operations",
+      "position": "Staff",
+      "grade": "G1",
+      "tenure_years": 7.0
+    },
+    {
+      "employee_id": "EMP1145",
+      "employee_name": "Salsa Kirana",
+      "department": "Operations",
+      "position": "Staff",
+      "grade": "G2",
+      "tenure_years": 2.8
+    },
+    {
+      "employee_id": "EMP1146",
+      "employee_name": "Tegar Santoso",
+      "department": "Operations",
+      "position": "Manager",
+      "grade": "G2",
+      "tenure_years": 4.3
+    },
+    {
+      "employee_id": "EMP1147",
+      "employee_name": "Ulfa Cahyani",
+      "department": "IT",
+      "position": "Supervisor",
+      "grade": "G1",
+      "tenure_years": 5.0
+    },
+    {
+      "employee_id": "EMP1148",
+      "employee_name": "Dewangga Ernawati",
+      "department": "Marketing",
+      "position": "Manager",
+      "grade": "G3",
+      "tenure_years": 4.7
+    },
+    {
+      "employee_id": "EMP1149",
+      "employee_name": "Elisa Hartono",
+      "department": "IT",
+      "position": "Supervisor",
+      "grade": "G5",
+      "tenure_years": 2.1
+    },
+    {
+      "employee_id": "EMP1150",
+      "employee_name": "Fajar Kusnadi",
+      "department": "Finance",
+      "position": "Senior",
+      "grade": "G3",
+      "tenure_years": 9.0
+    },
+    {
+      "employee_id": "EMP1151",
+      "employee_name": "Galih Nugroho",
+      "department": "IT",
+      "position": "Senior",
+      "grade": "G5",
+      "tenure_years": 7.5
+    },
+    {
+      "employee_id": "EMP1152",
+      "employee_name": "Hanif Ramadhani",
+      "department": "Finance",
+      "position": "Senior",
+      "grade": "G1",
+      "tenure_years": 8.3
+    },
+    {
+      "employee_id": "EMP1153",
+      "employee_name": "Intan Utami",
+      "department": "Operations",
+      "position": "Manager",
+      "grade": "G2",
+      "tenure_years": 6.8
+    },
+    {
+      "employee_id": "EMP1154",
+      "employee_name": "Jovian Cahyono",
+      "department": "HR",
+      "position": "Senior",
+      "grade": "G5",
+      "tenure_years": 5.4
+    },
+    {
+      "employee_id": "EMP1155",
+      "employee_name": "Kezia Firmanto",
+      "department": "HR",
+      "position": "Senior",
+      "grade": "G4",
+      "tenure_years": 3.1
+    },
+    {
+      "employee_id": "EMP1156",
+      "employee_name": "Lintang Iskandar",
+      "department": "Finance",
+      "position": "Senior",
+      "grade": "G1",
+      "tenure_years": 2.0
+    },
+    {
+      "employee_id": "EMP1157",
+      "employee_name": "Mahesa Lesmana",
+      "department": "HR",
+      "position": "Supervisor",
+      "grade": "G4",
+      "tenure_years": 10.4
+    },
+    {
+      "employee_id": "EMP1158",
+      "employee_name": "Nayla Oktaviani",
+      "department": "HR",
+      "position": "Manager",
+      "grade": "G5",
+      "tenure_years": 13.8
+    },
+    {
+      "employee_id": "EMP1159",
+      "employee_name": "Orion Suryatama",
+      "department": "HR",
+      "position": "Manager",
+      "grade": "G5",
+      "tenure_years": 2.2
+    },
+    {
+      "employee_id": "EMP1160",
+      "employee_name": "Puspita Adiputra",
+      "department": "Marketing",
+      "position": "Senior",
+      "grade": "G4",
+      "tenure_years": 12.7
+    },
+    {
+      "employee_id": "EMP1161",
+      "employee_name": "Qinan Darmawan",
+      "department": "Marketing",
+      "position": "Manager",
+      "grade": "G3",
+      "tenure_years": 4.4
+    },
+    {
+      "employee_id": "EMP1162",
+      "employee_name": "Rendra Gunawan",
+      "department": "Marketing",
+      "position": "Supervisor",
+      "grade": "G4",
+      "tenure_years": 11.7
+    },
+    {
+      "employee_id": "EMP1163",
+      "employee_name": "Saskia Julianti",
+      "department": "IT",
+      "position": "Senior",
+      "grade": "G3",
+      "tenure_years": 13.7
+    },
+    {
+      "employee_id": "EMP1164",
+      "employee_name": "Talita Mahardika",
+      "department": "IT",
+      "position": "Senior",
+      "grade": "G2",
+      "tenure_years": 11.4
+    },
+    {
+      "employee_id": "EMP1165",
+      "employee_name": "Umar Prakoso",
+      "department": "Finance",
+      "position": "Manager",
+      "grade": "G4",
+      "tenure_years": 14.7
+    },
+    {
+      "employee_id": "EMP1166",
+      "employee_name": "Varen Triyono",
+      "department": "Marketing",
+      "position": "Manager",
+      "grade": "G2",
+      "tenure_years": 11.6
+    },
+    {
+      "employee_id": "EMP1167",
+      "employee_name": "Wulan Baskoro",
+      "department": "HR",
+      "position": "Manager",
+      "grade": "G2",
+      "tenure_years": 1.1
+    },
+    {
+      "employee_id": "EMP1168",
+      "employee_name": "Yudhistira Ernawati",
+      "department": "Marketing",
+      "position": "Senior",
+      "grade": "G5",
+      "tenure_years": 10.6
+    },
+    {
+      "employee_id": "EMP1169",
+      "employee_name": "Zeline Hartono",
+      "department": "Finance",
+      "position": "Supervisor",
+      "grade": "G3",
+      "tenure_years": 2.9
+    },
+    {
+      "employee_id": "EMP1170",
+      "employee_name": "Abimanyu Kusnadi",
+      "department": "HR",
+      "position": "Manager",
+      "grade": "G1",
+      "tenure_years": 8.3
+    },
+    {
+      "employee_id": "EMP1171",
+      "employee_name": "Anisa Nugroho",
+      "department": "HR",
+      "position": "Manager",
+      "grade": "G3",
+      "tenure_years": 8.6
+    },
+    {
+      "employee_id": "EMP1172",
+      "employee_name": "Bintang Ramadhani",
+      "department": "IT",
+      "position": "Staff",
+      "grade": "G5",
+      "tenure_years": 12.9
+    },
+    {
+      "employee_id": "EMP1173",
+      "employee_name": "Citra Utami",
+      "department": "IT",
+      "position": "Manager",
+      "grade": "G1",
+      "tenure_years": 4.8
+    },
+    {
+      "employee_id": "EMP1174",
+      "employee_name": "Dewangga Cahyono",
+      "department": "IT",
+      "position": "Manager",
+      "grade": "G1",
+      "tenure_years": 11.8
+    },
+    {
+      "employee_id": "EMP1175",
+      "employee_name": "Elisa Firmanto",
+      "department": "Operations",
+      "position": "Supervisor",
+      "grade": "G2",
+      "tenure_years": 9.5
+    },
+    {
+      "employee_id": "EMP1176",
+      "employee_name": "Fajar Iskandar",
+      "department": "Finance",
+      "position": "Senior",
+      "grade": "G4",
+      "tenure_years": 14.2
+    },
+    {
+      "employee_id": "EMP1177",
+      "employee_name": "Galih Lesmana",
+      "department": "Operations",
+      "position": "Senior",
+      "grade": "G3",
+      "tenure_years": 11.3
+    },
+    {
+      "employee_id": "EMP1178",
+      "employee_name": "Hanif Oktaviani",
+      "department": "Marketing",
+      "position": "Manager",
+      "grade": "G1",
+      "tenure_years": 6.5
+    },
+    {
+      "employee_id": "EMP1179",
+      "employee_name": "Intan Suryatama",
+      "department": "Operations",
+      "position": "Supervisor",
+      "grade": "G5",
+      "tenure_years": 10.4
+    },
+    {
+      "employee_id": "EMP1180",
+      "employee_name": "Jovian Adiputra",
+      "department": "Operations",
+      "position": "Staff",
+      "grade": "G1",
+      "tenure_years": 8.1
+    },
+    {
+      "employee_id": "EMP1181",
+      "employee_name": "Kezia Darmawan",
+      "department": "HR",
+      "position": "Staff",
+      "grade": "G2",
+      "tenure_years": 8.1
+    },
+    {
+      "employee_id": "EMP1182",
+      "employee_name": "Lintang Gunawan",
+      "department": "Finance",
+      "position": "Supervisor",
+      "grade": "G4",
+      "tenure_years": 6.8
+    },
+    {
+      "employee_id": "EMP1183",
+      "employee_name": "Mahesa Julianti",
+      "department": "IT",
+      "position": "Supervisor",
+      "grade": "G5",
+      "tenure_years": 5.7
+    },
+    {
+      "employee_id": "EMP1184",
+      "employee_name": "Nayla Mahardika",
+      "department": "IT",
+      "position": "Manager",
+      "grade": "G2",
+      "tenure_years": 12.5
+    },
+    {
+      "employee_id": "EMP1185",
+      "employee_name": "Orion Prakoso",
+      "department": "IT",
+      "position": "Senior",
+      "grade": "G2",
+      "tenure_years": 0.8
+    },
+    {
+      "employee_id": "EMP1186",
+      "employee_name": "Puspita Triyono",
+      "department": "HR",
+      "position": "Manager",
+      "grade": "G3",
+      "tenure_years": 7.6
+    },
+    {
+      "employee_id": "EMP1187",
+      "employee_name": "Qinan Baskoro",
+      "department": "IT",
+      "position": "Senior",
+      "grade": "G5",
+      "tenure_years": 8.3
+    },
+    {
+      "employee_id": "EMP1188",
+      "employee_name": "Rendra Ernawati",
+      "department": "IT",
+      "position": "Supervisor",
+      "grade": "G3",
+      "tenure_years": 0.9
+    },
+    {
+      "employee_id": "EMP1189",
+      "employee_name": "Saskia Hartono",
+      "department": "Finance",
+      "position": "Senior",
+      "grade": "G3",
+      "tenure_years": 3.5
+    },
+    {
+      "employee_id": "EMP1190",
+      "employee_name": "Talita Kusnadi",
+      "department": "Finance",
+      "position": "Staff",
+      "grade": "G4",
+      "tenure_years": 1.6
+    },
+    {
+      "employee_id": "EMP1191",
+      "employee_name": "Umar Nugroho",
+      "department": "Finance",
+      "position": "Staff",
+      "grade": "G1",
+      "tenure_years": 11.6
+    },
+    {
+      "employee_id": "EMP1192",
+      "employee_name": "Varen Ramadhani",
+      "department": "Operations",
+      "position": "Manager",
+      "grade": "G2",
+      "tenure_years": 14.3
+    },
+    {
+      "employee_id": "EMP1193",
+      "employee_name": "Wulan Utami",
+      "department": "HR",
+      "position": "Supervisor",
+      "grade": "G1",
+      "tenure_years": 6.5
+    },
+    {
+      "employee_id": "EMP1194",
+      "employee_name": "Yudhistira Cahyono",
+      "department": "HR",
+      "position": "Manager",
+      "grade": "G4",
+      "tenure_years": 2.6
+    },
+    {
+      "employee_id": "EMP1195",
+      "employee_name": "Zeline Firmanto",
+      "department": "IT",
+      "position": "Staff",
+      "grade": "G3",
+      "tenure_years": 7.2
+    }
+  ],
+  "salary_grade": [
+    {
+      "grade": "G1",
+      "base_salary": 4000000,
+      "allowance": 500000
+    },
+    {
+      "grade": "G2",
+      "base_salary": 6000000,
+      "allowance": 700000
+    },
+    {
+      "grade": "G3",
+      "base_salary": 8000000,
+      "allowance": 1000000
+    },
+    {
+      "grade": "G4",
+      "base_salary": 10000000,
+      "allowance": 1500000
+    },
+    {
+      "grade": "G5",
+      "base_salary": 12000000,
+      "allowance": 2000000
+    }
+  ],
+  "vendors": [
+    {
+      "vendor_id": "V200",
+      "vendor_name": "UD Sinar Konstruksi Indonesia",
+      "bank_name": "BRI",
+      "account_number": "2018881312"
+    },
+    {
+      "vendor_id": "V201",
+      "vendor_name": "PT Cipta Digital Nusantara",
+      "bank_name": "BNI",
+      "account_number": "1437152405"
+    },
+    {
+      "vendor_id": "V202",
+      "vendor_name": "CV Mitra Pangan Perkasa",
+      "bank_name": "BRI",
+      "account_number": "1656524997"
+    },
+    {
+      "vendor_id": "V203",
+      "vendor_name": "UD Surya Medika Sentral",
+      "bank_name": "Mandiri",
+      "account_number": "6351347702"
+    },
+    {
+      "vendor_id": "V204",
+      "vendor_name": "PT Bina Energi Sejahtera",
+      "bank_name": "Mandiri",
+      "account_number": "6096266570"
+    },
+    {
+      "vendor_id": "V205",
+      "vendor_name": "CV Prima Grafika Prima",
+      "bank_name": "BRI",
+      "account_number": "6519441725"
+    },
+    {
+      "vendor_id": "V206",
+      "vendor_name": "UD Sentosa Berkah Abadi",
+      "bank_name": "BNI",
+      "account_number": "6039601246"
+    },
+    {
+      "vendor_id": "V207",
+      "vendor_name": "PT Global Transport Mandiri",
+      "bank_name": "BNI",
+      "account_number": "1344601334"
+    },
+    {
+      "vendor_id": "V208",
+      "vendor_name": "CV Nusa Elektrik Persada",
+      "bank_name": "BCA",
+      "account_number": "5219284003"
+    },
+    {
+      "vendor_id": "V209",
+      "vendor_name": "UD Anugerah Saruna Gemilang",
+      "bank_name": "BNI",
+      "account_number": "7003744065"
+    },
+    {
+      "vendor_id": "V210",
+      "vendor_name": "PT Karya Niaga Indonesia",
+      "bank_name": "BRI",
+      "account_number": "6402651504"
+    },
+    {
+      "vendor_id": "V211",
+      "vendor_name": "CV Tirta Logistik Nusantara",
+      "bank_name": "Mandiri",
+      "account_number": "6028923895"
+    },
+    {
+      "vendor_id": "V212",
+      "vendor_name": "UD Mega Teknik Perkasa",
+      "bank_name": "BCA",
+      "account_number": "8166768050"
+    },
+    {
+      "vendor_id": "V213",
+      "vendor_name": "PT Inti Mandiri Sentral",
+      "bank_name": "BCA",
+      "account_number": "9286606776"
+    },
+    {
+      "vendor_id": "V214",
+      "vendor_name": "CV Delta Abadi Sejahtera",
+      "bank_name": "Mandiri",
+      "account_number": "7686245710"
+    },
+    {
+      "vendor_id": "V215",
+      "vendor_name": "UD Artha Persada Prima",
+      "bank_name": "BNI",
+      "account_number": "6497468338"
+    },
+    {
+      "vendor_id": "V216",
+      "vendor_name": "PT Langgeng Solusi Abadi",
+      "bank_name": "Mandiri",
+      "account_number": "4304946987"
+    },
+    {
+      "vendor_id": "V217",
+      "vendor_name": "CV Sejahtera Utama Mandiri",
+      "bank_name": "BNI",
+      "account_number": "1803346757"
+    },
+    {
+      "vendor_id": "V218",
+      "vendor_name": "UD Mandala Jaya Persada",
+      "bank_name": "Mandiri",
+      "account_number": "6685159029"
+    },
+    {
+      "vendor_id": "V219",
+      "vendor_name": "PT Panca Makmur Gemilang",
+      "bank_name": "BRI",
+      "account_number": "3622593113"
+    },
+    {
+      "vendor_id": "V220",
+      "vendor_name": "CV Sinar Digital Nusantara",
+      "bank_name": "BNI",
+      "account_number": "6534626111"
+    },
+    {
+      "vendor_id": "V221",
+      "vendor_name": "UD Cipta Pangan Perkasa",
+      "bank_name": "BRI",
+      "account_number": "7791366436"
+    },
+    {
+      "vendor_id": "V222",
+      "vendor_name": "PT Mitra Medika Sentral",
+      "bank_name": "BCA",
+      "account_number": "5957950090"
+    },
+    {
+      "vendor_id": "V223",
+      "vendor_name": "CV Surya Energi Sejahtera",
+      "bank_name": "Mandiri",
+      "account_number": "3287454186"
+    },
+    {
+      "vendor_id": "V224",
+      "vendor_name": "UD Bina Grafika Prima",
+      "bank_name": "BCA",
+      "account_number": "9812514976"
+    }
+  ],
+  "payroll": [
+    {
+      "employee_id": "EMP1000",
+      "salary_system": 4500000,
+      "salary_received": 3960000,
+      "salary_difference": 540000,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 1,
+      "fraud_probability": 51.5
+    },
+    {
+      "employee_id": "EMP1001",
+      "salary_system": 4500000,
+      "salary_received": 4500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1002",
+      "salary_system": 9000000,
+      "salary_received": 9000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1003",
+      "salary_system": 9000000,
+      "salary_received": 7471798,
+      "salary_difference": 1528202,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1004",
+      "salary_system": 9000000,
+      "salary_received": 7070449,
+      "salary_difference": 1929551,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1005",
+      "salary_system": 11500000,
+      "salary_received": 11500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1006",
+      "salary_system": 4500000,
+      "salary_received": 4500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1007",
+      "salary_system": 11500000,
+      "salary_received": 11500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1008",
+      "salary_system": 9000000,
+      "salary_received": 8316132,
+      "salary_difference": 683868,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1009",
+      "salary_system": 4500000,
+      "salary_received": 3340208,
+      "salary_difference": 1159792,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1010",
+      "salary_system": 11500000,
+      "salary_received": 11500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1011",
+      "salary_system": 11500000,
+      "salary_received": 10904743,
+      "salary_difference": 595257,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1012",
+      "salary_system": 9000000,
+      "salary_received": 9000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1013",
+      "salary_system": 4500000,
+      "salary_received": 4500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1014",
+      "salary_system": 9000000,
+      "salary_received": 9000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1015",
+      "salary_system": 4500000,
+      "salary_received": 4500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1016",
+      "salary_system": 14000000,
+      "salary_received": 12911421,
+      "salary_difference": 1088579,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1017",
+      "salary_system": 6700000,
+      "salary_received": 5989824,
+      "salary_difference": 710176,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1018",
+      "salary_system": 6700000,
+      "salary_received": 6700000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1019",
+      "salary_system": 6700000,
+      "salary_received": 6009529,
+      "salary_difference": 690471,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1020",
+      "salary_system": 9000000,
+      "salary_received": 7585968,
+      "salary_difference": 1414032,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1021",
+      "salary_system": 14000000,
+      "salary_received": 13027070,
+      "salary_difference": 972930,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1022",
+      "salary_system": 4500000,
+      "salary_received": 4500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1023",
+      "salary_system": 11500000,
+      "salary_received": 11500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1024",
+      "salary_system": 4500000,
+      "salary_received": 4500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1025",
+      "salary_system": 11500000,
+      "salary_received": 11500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1026",
+      "salary_system": 4500000,
+      "salary_received": 4500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1027",
+      "salary_system": 14000000,
+      "salary_received": 12582441,
+      "salary_difference": 1417559,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1028",
+      "salary_system": 11500000,
+      "salary_received": 11500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1029",
+      "salary_system": 9000000,
+      "salary_received": 9000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1030",
+      "salary_system": 4500000,
+      "salary_received": 4500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1031",
+      "salary_system": 4500000,
+      "salary_received": 4500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1032",
+      "salary_system": 11500000,
+      "salary_received": 11500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1033",
+      "salary_system": 9000000,
+      "salary_received": 9000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1034",
+      "salary_system": 9000000,
+      "salary_received": 9000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1035",
+      "salary_system": 14000000,
+      "salary_received": 14000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1036",
+      "salary_system": 9000000,
+      "salary_received": 9000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1037",
+      "salary_system": 9000000,
+      "salary_received": 7864395,
+      "salary_difference": 1135605,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1038",
+      "salary_system": 9000000,
+      "salary_received": 9000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1039",
+      "salary_system": 6700000,
+      "salary_received": 6700000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1040",
+      "salary_system": 14000000,
+      "salary_received": 14000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1041",
+      "salary_system": 4500000,
+      "salary_received": 2811635,
+      "salary_difference": 1688365,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1042",
+      "salary_system": 11500000,
+      "salary_received": 11500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1043",
+      "salary_system": 4500000,
+      "salary_received": 4500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1044",
+      "salary_system": 14000000,
+      "salary_received": 13110407,
+      "salary_difference": 889593,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1045",
+      "salary_system": 11500000,
+      "salary_received": 11500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1046",
+      "salary_system": 14000000,
+      "salary_received": 12684869,
+      "salary_difference": 1315131,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1047",
+      "salary_system": 9000000,
+      "salary_received": 9000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1048",
+      "salary_system": 11500000,
+      "salary_received": 11500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1049",
+      "salary_system": 9000000,
+      "salary_received": 9000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1050",
+      "salary_system": 4500000,
+      "salary_received": 2877738,
+      "salary_difference": 1622262,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1051",
+      "salary_system": 4500000,
+      "salary_received": 4500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1052",
+      "salary_system": 11500000,
+      "salary_received": 10932339,
+      "salary_difference": 567661,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1053",
+      "salary_system": 11500000,
+      "salary_received": 11500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1054",
+      "salary_system": 14000000,
+      "salary_received": 12931465,
+      "salary_difference": 1068535,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1055",
+      "salary_system": 14000000,
+      "salary_received": 14000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1056",
+      "salary_system": 9000000,
+      "salary_received": 7206303,
+      "salary_difference": 1793697,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1057",
+      "salary_system": 11500000,
+      "salary_received": 11500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1058",
+      "salary_system": 4500000,
+      "salary_received": 4500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1059",
+      "salary_system": 14000000,
+      "salary_received": 14000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1060",
+      "salary_system": 14000000,
+      "salary_received": 14000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1061",
+      "salary_system": 4500000,
+      "salary_received": 4500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1062",
+      "salary_system": 14000000,
+      "salary_received": 14000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1063",
+      "salary_system": 9000000,
+      "salary_received": 7084167,
+      "salary_difference": 1915833,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1064",
+      "salary_system": 11500000,
+      "salary_received": 11500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1065",
+      "salary_system": 4500000,
+      "salary_received": 3733235,
+      "salary_difference": 766765,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1066",
+      "salary_system": 11500000,
+      "salary_received": 9805318,
+      "salary_difference": 1694682,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1067",
+      "salary_system": 14000000,
+      "salary_received": 14000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1068",
+      "salary_system": 14000000,
+      "salary_received": 12192494,
+      "salary_difference": 1807506,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1069",
+      "salary_system": 4500000,
+      "salary_received": 3339518,
+      "salary_difference": 1160482,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1070",
+      "salary_system": 9000000,
+      "salary_received": 9000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1071",
+      "salary_system": 6700000,
+      "salary_received": 6700000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1072",
+      "salary_system": 4500000,
+      "salary_received": 4500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1073",
+      "salary_system": 6700000,
+      "salary_received": 6700000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1074",
+      "salary_system": 6700000,
+      "salary_received": 6700000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1075",
+      "salary_system": 9000000,
+      "salary_received": 9000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1076",
+      "salary_system": 6700000,
+      "salary_received": 5395538,
+      "salary_difference": 1304462,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1077",
+      "salary_system": 6700000,
+      "salary_received": 5330730,
+      "salary_difference": 1369270,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1078",
+      "salary_system": 9000000,
+      "salary_received": 9000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1079",
+      "salary_system": 6700000,
+      "salary_received": 6700000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1080",
+      "salary_system": 6700000,
+      "salary_received": 6700000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1081",
+      "salary_system": 6700000,
+      "salary_received": 6700000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1082",
+      "salary_system": 4500000,
+      "salary_received": 4500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1083",
+      "salary_system": 4500000,
+      "salary_received": 3551126,
+      "salary_difference": 948874,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1084",
+      "salary_system": 4500000,
+      "salary_received": 4500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1085",
+      "salary_system": 9000000,
+      "salary_received": 7646501,
+      "salary_difference": 1353499,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1086",
+      "salary_system": 14000000,
+      "salary_received": 12476020,
+      "salary_difference": 1523980,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1087",
+      "salary_system": 6700000,
+      "salary_received": 6700000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1088",
+      "salary_system": 6700000,
+      "salary_received": 6081967,
+      "salary_difference": 618033,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1089",
+      "salary_system": 9000000,
+      "salary_received": 9000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1090",
+      "salary_system": 6700000,
+      "salary_received": 6700000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1091",
+      "salary_system": 4500000,
+      "salary_received": 4500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1092",
+      "salary_system": 14000000,
+      "salary_received": 12869735,
+      "salary_difference": 1130265,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1093",
+      "salary_system": 11500000,
+      "salary_received": 10386843,
+      "salary_difference": 1113157,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1094",
+      "salary_system": 6700000,
+      "salary_received": 5378894,
+      "salary_difference": 1321106,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1095",
+      "salary_system": 4500000,
+      "salary_received": 2784498,
+      "salary_difference": 1715502,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1096",
+      "salary_system": 11500000,
+      "salary_received": 10139880,
+      "salary_difference": 1360120,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1097",
+      "salary_system": 14000000,
+      "salary_received": 13068266,
+      "salary_difference": 931734,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1098",
+      "salary_system": 11500000,
+      "salary_received": 9578204,
+      "salary_difference": 1921796,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1099",
+      "salary_system": 4500000,
+      "salary_received": 3334373,
+      "salary_difference": 1165627,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1100",
+      "salary_system": 11500000,
+      "salary_received": 11500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1101",
+      "salary_system": 9000000,
+      "salary_received": 9000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1102",
+      "salary_system": 11500000,
+      "salary_received": 10778103,
+      "salary_difference": 721897,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1103",
+      "salary_system": 6700000,
+      "salary_received": 6700000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1104",
+      "salary_system": 6700000,
+      "salary_received": 6700000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1105",
+      "salary_system": 9000000,
+      "salary_received": 8498938,
+      "salary_difference": 501062,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1106",
+      "salary_system": 4500000,
+      "salary_received": 4500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1107",
+      "salary_system": 6700000,
+      "salary_received": 6700000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1108",
+      "salary_system": 14000000,
+      "salary_received": 12203688,
+      "salary_difference": 1796312,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1109",
+      "salary_system": 6700000,
+      "salary_received": 6104538,
+      "salary_difference": 595462,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1110",
+      "salary_system": 6700000,
+      "salary_received": 6700000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1111",
+      "salary_system": 4500000,
+      "salary_received": 2551979,
+      "salary_difference": 1948021,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1112",
+      "salary_system": 11500000,
+      "salary_received": 9501415,
+      "salary_difference": 1998585,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1113",
+      "salary_system": 6700000,
+      "salary_received": 6700000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1114",
+      "salary_system": 9000000,
+      "salary_received": 9000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1115",
+      "salary_system": 11500000,
+      "salary_received": 10229827,
+      "salary_difference": 1270173,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1116",
+      "salary_system": 14000000,
+      "salary_received": 14000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1117",
+      "salary_system": 4500000,
+      "salary_received": 4500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1118",
+      "salary_system": 14000000,
+      "salary_received": 14000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1119",
+      "salary_system": 11500000,
+      "salary_received": 11500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1120",
+      "salary_system": 11500000,
+      "salary_received": 11500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1121",
+      "salary_system": 11500000,
+      "salary_received": 11500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1122",
+      "salary_system": 14000000,
+      "salary_received": 14000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1123",
+      "salary_system": 11500000,
+      "salary_received": 11500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1124",
+      "salary_system": 14000000,
+      "salary_received": 12927797,
+      "salary_difference": 1072203,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1125",
+      "salary_system": 11500000,
+      "salary_received": 11500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1126",
+      "salary_system": 9000000,
+      "salary_received": 7184648,
+      "salary_difference": 1815352,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1127",
+      "salary_system": 11500000,
+      "salary_received": 11500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1128",
+      "salary_system": 14000000,
+      "salary_received": 12841044,
+      "salary_difference": 1158956,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1129",
+      "salary_system": 6700000,
+      "salary_received": 6700000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1130",
+      "salary_system": 11500000,
+      "salary_received": 9579501,
+      "salary_difference": 1920499,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1131",
+      "salary_system": 6700000,
+      "salary_received": 4752040,
+      "salary_difference": 1947960,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1132",
+      "salary_system": 9000000,
+      "salary_received": 9000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1133",
+      "salary_system": 4500000,
+      "salary_received": 3468151,
+      "salary_difference": 1031849,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1134",
+      "salary_system": 9000000,
+      "salary_received": 9000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1135",
+      "salary_system": 11500000,
+      "salary_received": 11500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1136",
+      "salary_system": 6700000,
+      "salary_received": 6700000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1137",
+      "salary_system": 6700000,
+      "salary_received": 6700000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1138",
+      "salary_system": 14000000,
+      "salary_received": 14000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1139",
+      "salary_system": 6700000,
+      "salary_received": 6700000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1140",
+      "salary_system": 14000000,
+      "salary_received": 13032990,
+      "salary_difference": 967010,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1141",
+      "salary_system": 4500000,
+      "salary_received": 4500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1142",
+      "salary_system": 11500000,
+      "salary_received": 11500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1143",
+      "salary_system": 14000000,
+      "salary_received": 14000000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1144",
+      "salary_system": 4500000,
+      "salary_received": 4500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1145",
+      "salary_system": 6700000,
+      "salary_received": 6700000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1146",
+      "salary_system": 6700000,
+      "salary_received": 5813807,
+      "salary_difference": 886193,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1147",
+      "salary_system": 4500000,
+      "salary_received": 4500000,
+      "salary_difference": 0,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1148",
+      "salary_system": 9000000,
+      "salary_received": 9024464,
+      "salary_difference": 24464,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1149",
+      "salary_system": 14000000,
+      "salary_received": 13999722,
+      "salary_difference": 278,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1150",
+      "salary_system": 9000000,
+      "salary_received": 7965532,
+      "salary_difference": 1034468,
+      "checker_approved": 0,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1151",
+      "salary_system": 14000000,
+      "salary_received": 10668676,
+      "salary_difference": 3331324,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1152",
+      "salary_system": 4500000,
+      "salary_received": 2955180,
+      "salary_difference": 1544820,
+      "checker_approved": 0,
+      "signer_approved": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1153",
+      "salary_system": 6700000,
+      "salary_received": 5587040,
+      "salary_difference": 1112960,
+      "checker_approved": 0,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1154",
+      "salary_system": 14000000,
+      "salary_received": 14016654,
+      "salary_difference": 16654,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1155",
+      "salary_system": 11500000,
+      "salary_received": 11512176,
+      "salary_difference": 12176,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1156",
+      "salary_system": 4500000,
+      "salary_received": 4302913,
+      "salary_difference": 197087,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1157",
+      "salary_system": 11500000,
+      "salary_received": 12482004,
+      "salary_difference": 982004,
+      "checker_approved": 0,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1158",
+      "salary_system": 14000000,
+      "salary_received": 11903244,
+      "salary_difference": 2096756,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1159",
+      "salary_system": 14000000,
+      "salary_received": 14014076,
+      "salary_difference": 14076,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1160",
+      "salary_system": 11500000,
+      "salary_received": 11397118,
+      "salary_difference": 102882,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1161",
+      "salary_system": 9000000,
+      "salary_received": 8990477,
+      "salary_difference": 9523,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1162",
+      "salary_system": 11500000,
+      "salary_received": 10727389,
+      "salary_difference": 772611,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1163",
+      "salary_system": 9000000,
+      "salary_received": 8984587,
+      "salary_difference": 15413,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1164",
+      "salary_system": 6700000,
+      "salary_received": 6268799,
+      "salary_difference": 431201,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1165",
+      "salary_system": 11500000,
+      "salary_received": 12837823,
+      "salary_difference": 1337823,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1166",
+      "salary_system": 6700000,
+      "salary_received": 6212436,
+      "salary_difference": 487564,
+      "checker_approved": 0,
+      "signer_approved": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1167",
+      "salary_system": 6700000,
+      "salary_received": 5875522,
+      "salary_difference": 824478,
+      "checker_approved": 0,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1168",
+      "salary_system": 14000000,
+      "salary_received": 13068800,
+      "salary_difference": 931200,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1169",
+      "salary_system": 9000000,
+      "salary_received": 4529296,
+      "salary_difference": 4470704,
+      "checker_approved": 0,
+      "signer_approved": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1170",
+      "salary_system": 4500000,
+      "salary_received": 3426623,
+      "salary_difference": 1073377,
+      "checker_approved": 0,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1171",
+      "salary_system": 9000000,
+      "salary_received": 8989231,
+      "salary_difference": 10769,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1172",
+      "salary_system": 14000000,
+      "salary_received": 11697975,
+      "salary_difference": 2302025,
+      "checker_approved": 0,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1173",
+      "salary_system": 4500000,
+      "salary_received": 4482551,
+      "salary_difference": 17449,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1174",
+      "salary_system": 4500000,
+      "salary_received": 4413024,
+      "salary_difference": 86976,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1175",
+      "salary_system": 6700000,
+      "salary_received": 6374806,
+      "salary_difference": 325194,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1176",
+      "salary_system": 11500000,
+      "salary_received": 11476755,
+      "salary_difference": 23245,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1177",
+      "salary_system": 9000000,
+      "salary_received": 5862329,
+      "salary_difference": 3137671,
+      "checker_approved": 0,
+      "signer_approved": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1178",
+      "salary_system": 4500000,
+      "salary_received": 4524582,
+      "salary_difference": 24582,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1179",
+      "salary_system": 14000000,
+      "salary_received": 13740276,
+      "salary_difference": 259724,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1180",
+      "salary_system": 4500000,
+      "salary_received": 2416097,
+      "salary_difference": 2083903,
+      "checker_approved": 0,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1181",
+      "salary_system": 6700000,
+      "salary_received": 6688384,
+      "salary_difference": 11616,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1182",
+      "salary_system": 11500000,
+      "salary_received": 11496862,
+      "salary_difference": 3138,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1183",
+      "salary_system": 14000000,
+      "salary_received": 15112973,
+      "salary_difference": 1112973,
+      "checker_approved": 0,
+      "signer_approved": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1184",
+      "salary_system": 6700000,
+      "salary_received": 5386100,
+      "salary_difference": 1313900,
+      "checker_approved": 0,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1185",
+      "salary_system": 6700000,
+      "salary_received": 6853989,
+      "salary_difference": 153989,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1186",
+      "salary_system": 9000000,
+      "salary_received": 8599815,
+      "salary_difference": 400185,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1187",
+      "salary_system": 14000000,
+      "salary_received": 11706532,
+      "salary_difference": 2293468,
+      "checker_approved": 1,
+      "signer_approved": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1188",
+      "salary_system": 9000000,
+      "salary_received": 8994945,
+      "salary_difference": 5055,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1189",
+      "salary_system": 9000000,
+      "salary_received": 9006320,
+      "salary_difference": 6320,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1190",
+      "salary_system": 11500000,
+      "salary_received": 9878314,
+      "salary_difference": 1621686,
+      "checker_approved": 0,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1191",
+      "salary_system": 4500000,
+      "salary_received": 4522921,
+      "salary_difference": 22921,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1192",
+      "salary_system": 6700000,
+      "salary_received": 7155584,
+      "salary_difference": 455584,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1193",
+      "salary_system": 4500000,
+      "salary_received": 4230017,
+      "salary_difference": 269983,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1194",
+      "salary_system": 11500000,
+      "salary_received": 12536350,
+      "salary_difference": 1036350,
+      "checker_approved": 0,
+      "signer_approved": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "employee_id": "EMP1195",
+      "salary_system": 9000000,
+      "salary_received": 9005297,
+      "salary_difference": 5297,
+      "checker_approved": 1,
+      "signer_approved": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    }
+  ],
+  "procurement": [
+    {
+      "procurement_id": "P4000",
+      "employee_id": "EMP1133",
+      "vendor_id": "V206",
+      "price_system": 6787749,
+      "price_actual": 6787749,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4001",
+      "employee_id": "EMP1009",
+      "vendor_id": "V202",
+      "price_system": 2661793,
+      "price_actual": 156344,
+      "price_difference": 2505449,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4002",
+      "employee_id": "EMP1004",
+      "vendor_id": "V209",
+      "price_system": 7576651,
+      "price_actual": 7576651,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4003",
+      "employee_id": "EMP1137",
+      "vendor_id": "V209",
+      "price_system": 7867218,
+      "price_actual": 7867218,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4004",
+      "employee_id": "EMP1129",
+      "vendor_id": "V218",
+      "price_system": 8466027,
+      "price_actual": 8466027,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4005",
+      "employee_id": "EMP1012",
+      "vendor_id": "V213",
+      "price_system": 5987696,
+      "price_actual": 5987696,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4006",
+      "employee_id": "EMP1129",
+      "vendor_id": "V201",
+      "price_system": 1428988,
+      "price_actual": 1428988,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4007",
+      "employee_id": "EMP1083",
+      "vendor_id": "V200",
+      "price_system": 5084752,
+      "price_actual": 5084752,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4008",
+      "employee_id": "EMP1064",
+      "vendor_id": "V222",
+      "price_system": 5374857,
+      "price_actual": 5374857,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4009",
+      "employee_id": "EMP1062",
+      "vendor_id": "V222",
+      "price_system": 3977590,
+      "price_actual": 3977590,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4010",
+      "employee_id": "EMP1100",
+      "vendor_id": "V217",
+      "price_system": 8599600,
+      "price_actual": 7141651,
+      "price_difference": 1457949,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4011",
+      "employee_id": "EMP1072",
+      "vendor_id": "V206",
+      "price_system": 7610734,
+      "price_actual": 7610734,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4012",
+      "employee_id": "EMP1016",
+      "vendor_id": "V207",
+      "price_system": 4297291,
+      "price_actual": 4297291,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4013",
+      "employee_id": "EMP1008",
+      "vendor_id": "V200",
+      "price_system": 5894287,
+      "price_actual": 5894287,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4014",
+      "employee_id": "EMP1142",
+      "vendor_id": "V224",
+      "price_system": 8954647,
+      "price_actual": 8954647,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4015",
+      "employee_id": "EMP1037",
+      "vendor_id": "V222",
+      "price_system": 3490706,
+      "price_actual": 2265767,
+      "price_difference": 1224939,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4016",
+      "employee_id": "EMP1093",
+      "vendor_id": "V202",
+      "price_system": 8542535,
+      "price_actual": 8542535,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4017",
+      "employee_id": "EMP1094",
+      "vendor_id": "V223",
+      "price_system": 9047252,
+      "price_actual": 9047252,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4018",
+      "employee_id": "EMP1048",
+      "vendor_id": "V222",
+      "price_system": 6254224,
+      "price_actual": 4710362,
+      "price_difference": 1543862,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4019",
+      "employee_id": "EMP1068",
+      "vendor_id": "V207",
+      "price_system": 7215140,
+      "price_actual": 6627064,
+      "price_difference": 588076,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4020",
+      "employee_id": "EMP1061",
+      "vendor_id": "V221",
+      "price_system": 4737973,
+      "price_actual": 4737973,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4021",
+      "employee_id": "EMP1077",
+      "vendor_id": "V224",
+      "price_system": 3202575,
+      "price_actual": 285076,
+      "price_difference": 2917499,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4022",
+      "employee_id": "EMP1116",
+      "vendor_id": "V214",
+      "price_system": 7611653,
+      "price_actual": 6789048,
+      "price_difference": 822605,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4023",
+      "employee_id": "EMP1119",
+      "vendor_id": "V204",
+      "price_system": 1464071,
+      "price_actual": 1464071,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4024",
+      "employee_id": "EMP1136",
+      "vendor_id": "V202",
+      "price_system": 5381137,
+      "price_actual": 2982526,
+      "price_difference": 2398611,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4025",
+      "employee_id": "EMP1075",
+      "vendor_id": "V218",
+      "price_system": 5912216,
+      "price_actual": 3831315,
+      "price_difference": 2080901,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4026",
+      "employee_id": "EMP1034",
+      "vendor_id": "V200",
+      "price_system": 8597626,
+      "price_actual": 8597626,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4027",
+      "employee_id": "EMP1000",
+      "vendor_id": "V214",
+      "price_system": 4498472,
+      "price_actual": 4498472,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4028",
+      "employee_id": "EMP1039",
+      "vendor_id": "V207",
+      "price_system": 9369689,
+      "price_actual": 9369689,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4029",
+      "employee_id": "EMP1063",
+      "vendor_id": "V201",
+      "price_system": 2564718,
+      "price_actual": 317994,
+      "price_difference": 2246724,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4030",
+      "employee_id": "EMP1059",
+      "vendor_id": "V202",
+      "price_system": 6139743,
+      "price_actual": 4561374,
+      "price_difference": 1578369,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4031",
+      "employee_id": "EMP1063",
+      "vendor_id": "V223",
+      "price_system": 4813270,
+      "price_actual": 4813270,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4032",
+      "employee_id": "EMP1092",
+      "vendor_id": "V213",
+      "price_system": 5806425,
+      "price_actual": 5806425,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4033",
+      "employee_id": "EMP1071",
+      "vendor_id": "V223",
+      "price_system": 7609876,
+      "price_actual": 7609876,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4034",
+      "employee_id": "EMP1010",
+      "vendor_id": "V213",
+      "price_system": 3378837,
+      "price_actual": 3378837,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4035",
+      "employee_id": "EMP1104",
+      "vendor_id": "V210",
+      "price_system": 7123769,
+      "price_actual": 7123769,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4036",
+      "employee_id": "EMP1013",
+      "vendor_id": "V215",
+      "price_system": 2524102,
+      "price_actual": 2524102,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4037",
+      "employee_id": "EMP1059",
+      "vendor_id": "V203",
+      "price_system": 3383366,
+      "price_actual": 2146818,
+      "price_difference": 1236548,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4038",
+      "employee_id": "EMP1029",
+      "vendor_id": "V219",
+      "price_system": 3035848,
+      "price_actual": 3035848,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4039",
+      "employee_id": "EMP1034",
+      "vendor_id": "V204",
+      "price_system": 6122930,
+      "price_actual": 5769931,
+      "price_difference": 352999,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4040",
+      "employee_id": "EMP1004",
+      "vendor_id": "V221",
+      "price_system": 9593223,
+      "price_actual": 9593223,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4041",
+      "employee_id": "EMP1082",
+      "vendor_id": "V220",
+      "price_system": 7691409,
+      "price_actual": 7691409,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4042",
+      "employee_id": "EMP1122",
+      "vendor_id": "V213",
+      "price_system": 1838003,
+      "price_actual": 1838003,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4043",
+      "employee_id": "EMP1077",
+      "vendor_id": "V222",
+      "price_system": 4433382,
+      "price_actual": 4433382,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4044",
+      "employee_id": "EMP1061",
+      "vendor_id": "V215",
+      "price_system": 9670178,
+      "price_actual": 8716863,
+      "price_difference": 953315,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4045",
+      "employee_id": "EMP1131",
+      "vendor_id": "V217",
+      "price_system": 4395049,
+      "price_actual": 4395049,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4046",
+      "employee_id": "EMP1088",
+      "vendor_id": "V206",
+      "price_system": 1066150,
+      "price_actual": 418232,
+      "price_difference": 647918,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4047",
+      "employee_id": "EMP1041",
+      "vendor_id": "V209",
+      "price_system": 8951632,
+      "price_actual": 8951632,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4048",
+      "employee_id": "EMP1088",
+      "vendor_id": "V206",
+      "price_system": 8429645,
+      "price_actual": 7136331,
+      "price_difference": 1293314,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4049",
+      "employee_id": "EMP1145",
+      "vendor_id": "V200",
+      "price_system": 7081687,
+      "price_actual": 7081687,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4050",
+      "employee_id": "EMP1039",
+      "vendor_id": "V222",
+      "price_system": 9948331,
+      "price_actual": 8705954,
+      "price_difference": 1242377,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4051",
+      "employee_id": "EMP1071",
+      "vendor_id": "V220",
+      "price_system": 3547500,
+      "price_actual": 1435873,
+      "price_difference": 2111627,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4052",
+      "employee_id": "EMP1038",
+      "vendor_id": "V218",
+      "price_system": 5193060,
+      "price_actual": 5193060,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4053",
+      "employee_id": "EMP1103",
+      "vendor_id": "V215",
+      "price_system": 1134055,
+      "price_actual": 1134055,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4054",
+      "employee_id": "EMP1013",
+      "vendor_id": "V218",
+      "price_system": 2841648,
+      "price_actual": 1681904,
+      "price_difference": 1159744,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4055",
+      "employee_id": "EMP1031",
+      "vendor_id": "V203",
+      "price_system": 8132508,
+      "price_actual": 6467217,
+      "price_difference": 1665291,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4056",
+      "employee_id": "EMP1124",
+      "vendor_id": "V217",
+      "price_system": 7437845,
+      "price_actual": 7437845,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4057",
+      "employee_id": "EMP1096",
+      "vendor_id": "V201",
+      "price_system": 4828433,
+      "price_actual": 4414866,
+      "price_difference": 413567,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4058",
+      "employee_id": "EMP1022",
+      "vendor_id": "V200",
+      "price_system": 3735264,
+      "price_actual": 1592453,
+      "price_difference": 2142811,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4059",
+      "employee_id": "EMP1062",
+      "vendor_id": "V214",
+      "price_system": 5448748,
+      "price_actual": 4931400,
+      "price_difference": 517348,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4060",
+      "employee_id": "EMP1142",
+      "vendor_id": "V204",
+      "price_system": 8152747,
+      "price_actual": 6626464,
+      "price_difference": 1526283,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4061",
+      "employee_id": "EMP1144",
+      "vendor_id": "V219",
+      "price_system": 5137270,
+      "price_actual": 3131462,
+      "price_difference": 2005808,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4062",
+      "employee_id": "EMP1052",
+      "vendor_id": "V210",
+      "price_system": 5317922,
+      "price_actual": 5317922,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4063",
+      "employee_id": "EMP1103",
+      "vendor_id": "V209",
+      "price_system": 9847905,
+      "price_actual": 9847905,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4064",
+      "employee_id": "EMP1103",
+      "vendor_id": "V201",
+      "price_system": 8465373,
+      "price_actual": 8465373,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4065",
+      "employee_id": "EMP1038",
+      "vendor_id": "V202",
+      "price_system": 2020154,
+      "price_actual": 1478339,
+      "price_difference": 541815,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4066",
+      "employee_id": "EMP1133",
+      "vendor_id": "V222",
+      "price_system": 9070924,
+      "price_actual": 8410430,
+      "price_difference": 660494,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4067",
+      "employee_id": "EMP1066",
+      "vendor_id": "V222",
+      "price_system": 7843532,
+      "price_actual": 7843532,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4068",
+      "employee_id": "EMP1134",
+      "vendor_id": "V211",
+      "price_system": 5945169,
+      "price_actual": 3204693,
+      "price_difference": 2740476,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4069",
+      "employee_id": "EMP1041",
+      "vendor_id": "V219",
+      "price_system": 7733215,
+      "price_actual": 5966162,
+      "price_difference": 1767053,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4070",
+      "employee_id": "EMP1014",
+      "vendor_id": "V204",
+      "price_system": 9195810,
+      "price_actual": 9195810,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4071",
+      "employee_id": "EMP1110",
+      "vendor_id": "V204",
+      "price_system": 8904294,
+      "price_actual": 8904294,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4072",
+      "employee_id": "EMP1032",
+      "vendor_id": "V205",
+      "price_system": 8185197,
+      "price_actual": 8185197,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4073",
+      "employee_id": "EMP1037",
+      "vendor_id": "V208",
+      "price_system": 9171548,
+      "price_actual": 9171548,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4074",
+      "employee_id": "EMP1096",
+      "vendor_id": "V201",
+      "price_system": 7714301,
+      "price_actual": 7714301,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4075",
+      "employee_id": "EMP1032",
+      "vendor_id": "V220",
+      "price_system": 8969693,
+      "price_actual": 8969693,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4076",
+      "employee_id": "EMP1085",
+      "vendor_id": "V211",
+      "price_system": 2859582,
+      "price_actual": 2859582,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4077",
+      "employee_id": "EMP1065",
+      "vendor_id": "V202",
+      "price_system": 8744064,
+      "price_actual": 8744064,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4078",
+      "employee_id": "EMP1009",
+      "vendor_id": "V219",
+      "price_system": 3129885,
+      "price_actual": 3129885,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4079",
+      "employee_id": "EMP1004",
+      "vendor_id": "V221",
+      "price_system": 5720642,
+      "price_actual": 5720642,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4080",
+      "employee_id": "EMP1122",
+      "vendor_id": "V211",
+      "price_system": 1549239,
+      "price_actual": 995940,
+      "price_difference": 553299,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4081",
+      "employee_id": "EMP1073",
+      "vendor_id": "V223",
+      "price_system": 9945309,
+      "price_actual": 9945309,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4082",
+      "employee_id": "EMP1096",
+      "vendor_id": "V216",
+      "price_system": 6408753,
+      "price_actual": 4686065,
+      "price_difference": 1722688,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4083",
+      "employee_id": "EMP1117",
+      "vendor_id": "V209",
+      "price_system": 4047569,
+      "price_actual": 3630284,
+      "price_difference": 417285,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4084",
+      "employee_id": "EMP1037",
+      "vendor_id": "V223",
+      "price_system": 1785332,
+      "price_actual": 1785332,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4085",
+      "employee_id": "EMP1140",
+      "vendor_id": "V213",
+      "price_system": 9555080,
+      "price_actual": 9555080,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4086",
+      "employee_id": "EMP1046",
+      "vendor_id": "V222",
+      "price_system": 1397710,
+      "price_actual": 1397710,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4087",
+      "employee_id": "EMP1108",
+      "vendor_id": "V216",
+      "price_system": 7503216,
+      "price_actual": 7503216,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4088",
+      "employee_id": "EMP1014",
+      "vendor_id": "V217",
+      "price_system": 5317048,
+      "price_actual": 5317048,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4089",
+      "employee_id": "EMP1135",
+      "vendor_id": "V218",
+      "price_system": 4188729,
+      "price_actual": 4188729,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4090",
+      "employee_id": "EMP1004",
+      "vendor_id": "V216",
+      "price_system": 5785956,
+      "price_actual": 5785956,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4091",
+      "employee_id": "EMP1046",
+      "vendor_id": "V213",
+      "price_system": 6105724,
+      "price_actual": 6105724,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4092",
+      "employee_id": "EMP1067",
+      "vendor_id": "V208",
+      "price_system": 6025764,
+      "price_actual": 6025764,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4093",
+      "employee_id": "EMP1075",
+      "vendor_id": "V207",
+      "price_system": 8996198,
+      "price_actual": 8996198,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4094",
+      "employee_id": "EMP1129",
+      "vendor_id": "V201",
+      "price_system": 1910775,
+      "price_actual": 1910775,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4095",
+      "employee_id": "EMP1094",
+      "vendor_id": "V212",
+      "price_system": 6954878,
+      "price_actual": 6954878,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4096",
+      "employee_id": "EMP1114",
+      "vendor_id": "V224",
+      "price_system": 6927997,
+      "price_actual": 6927997,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4097",
+      "employee_id": "EMP1035",
+      "vendor_id": "V206",
+      "price_system": 1558924,
+      "price_actual": 354212,
+      "price_difference": 1204712,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4098",
+      "employee_id": "EMP1025",
+      "vendor_id": "V208",
+      "price_system": 4881185,
+      "price_actual": 4881185,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4099",
+      "employee_id": "EMP1042",
+      "vendor_id": "V221",
+      "price_system": 6004998,
+      "price_actual": 6004998,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4100",
+      "employee_id": "EMP1026",
+      "vendor_id": "V221",
+      "price_system": 6166650,
+      "price_actual": 6166650,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4101",
+      "employee_id": "EMP1068",
+      "vendor_id": "V210",
+      "price_system": 6693075,
+      "price_actual": 6693075,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4102",
+      "employee_id": "EMP1147",
+      "vendor_id": "V213",
+      "price_system": 9109916,
+      "price_actual": 7612840,
+      "price_difference": 1497076,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4103",
+      "employee_id": "EMP1010",
+      "vendor_id": "V203",
+      "price_system": 6193278,
+      "price_actual": 4185668,
+      "price_difference": 2007610,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4104",
+      "employee_id": "EMP1073",
+      "vendor_id": "V212",
+      "price_system": 1431413,
+      "price_actual": 1431413,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4105",
+      "employee_id": "EMP1103",
+      "vendor_id": "V201",
+      "price_system": 5165100,
+      "price_actual": 2216715,
+      "price_difference": 2948385,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4106",
+      "employee_id": "EMP1037",
+      "vendor_id": "V222",
+      "price_system": 1863561,
+      "price_actual": 232659,
+      "price_difference": 1630902,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4107",
+      "employee_id": "EMP1133",
+      "vendor_id": "V204",
+      "price_system": 1302186,
+      "price_actual": 1639284,
+      "price_difference": 337098,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4108",
+      "employee_id": "EMP1022",
+      "vendor_id": "V210",
+      "price_system": 4207393,
+      "price_actual": 2952247,
+      "price_difference": 1255146,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4109",
+      "employee_id": "EMP1046",
+      "vendor_id": "V205",
+      "price_system": 6489464,
+      "price_actual": 6210323,
+      "price_difference": 279141,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4110",
+      "employee_id": "EMP1089",
+      "vendor_id": "V217",
+      "price_system": 8456985,
+      "price_actual": 8456985,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4111",
+      "employee_id": "EMP1045",
+      "vendor_id": "V220",
+      "price_system": 7767528,
+      "price_actual": 7767528,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4112",
+      "employee_id": "EMP1106",
+      "vendor_id": "V209",
+      "price_system": 2026553,
+      "price_actual": 2026553,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4113",
+      "employee_id": "EMP1139",
+      "vendor_id": "V203",
+      "price_system": 9533879,
+      "price_actual": 9533879,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4114",
+      "employee_id": "EMP1140",
+      "vendor_id": "V208",
+      "price_system": 4743797,
+      "price_actual": 4743797,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4115",
+      "employee_id": "EMP1103",
+      "vendor_id": "V205",
+      "price_system": 2514542,
+      "price_actual": 2514542,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4116",
+      "employee_id": "EMP1110",
+      "vendor_id": "V201",
+      "price_system": 7357718,
+      "price_actual": 7357718,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4117",
+      "employee_id": "EMP1103",
+      "vendor_id": "V216",
+      "price_system": 5180656,
+      "price_actual": 3637380,
+      "price_difference": 1543276,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4118",
+      "employee_id": "EMP1059",
+      "vendor_id": "V204",
+      "price_system": 9465506,
+      "price_actual": 7690673,
+      "price_difference": 1774833,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4119",
+      "employee_id": "EMP1099",
+      "vendor_id": "V224",
+      "price_system": 7846192,
+      "price_actual": 7846192,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4120",
+      "employee_id": "EMP1067",
+      "vendor_id": "V205",
+      "price_system": 9676924,
+      "price_actual": 9676924,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4121",
+      "employee_id": "EMP1132",
+      "vendor_id": "V211",
+      "price_system": 8347689,
+      "price_actual": 5652851,
+      "price_difference": 2694838,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4122",
+      "employee_id": "EMP1119",
+      "vendor_id": "V222",
+      "price_system": 2829553,
+      "price_actual": 2829553,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4123",
+      "employee_id": "EMP1036",
+      "vendor_id": "V220",
+      "price_system": 4041341,
+      "price_actual": 3194045,
+      "price_difference": 847296,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4124",
+      "employee_id": "EMP1071",
+      "vendor_id": "V209",
+      "price_system": 2039504,
+      "price_actual": 2039504,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4125",
+      "employee_id": "EMP1126",
+      "vendor_id": "V221",
+      "price_system": 7666455,
+      "price_actual": 7666455,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4126",
+      "employee_id": "EMP1105",
+      "vendor_id": "V220",
+      "price_system": 8663589,
+      "price_actual": 6784902,
+      "price_difference": 1878687,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4127",
+      "employee_id": "EMP1091",
+      "vendor_id": "V224",
+      "price_system": 8918348,
+      "price_actual": 8918348,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4128",
+      "employee_id": "EMP1030",
+      "vendor_id": "V205",
+      "price_system": 5988023,
+      "price_actual": 5988023,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4129",
+      "employee_id": "EMP1121",
+      "vendor_id": "V207",
+      "price_system": 8635836,
+      "price_actual": 6476430,
+      "price_difference": 2159406,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4130",
+      "employee_id": "EMP1136",
+      "vendor_id": "V201",
+      "price_system": 8809006,
+      "price_actual": 8809006,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4131",
+      "employee_id": "EMP1050",
+      "vendor_id": "V211",
+      "price_system": 2675843,
+      "price_actual": 2675843,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4132",
+      "employee_id": "EMP1028",
+      "vendor_id": "V212",
+      "price_system": 9423309,
+      "price_actual": 8179052,
+      "price_difference": 1244257,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4133",
+      "employee_id": "EMP1039",
+      "vendor_id": "V224",
+      "price_system": 4229028,
+      "price_actual": 4229028,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4134",
+      "employee_id": "EMP1040",
+      "vendor_id": "V220",
+      "price_system": 8056993,
+      "price_actual": 7360235,
+      "price_difference": 696758,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4135",
+      "employee_id": "EMP1010",
+      "vendor_id": "V206",
+      "price_system": 2721610,
+      "price_actual": 2721610,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4136",
+      "employee_id": "EMP1000",
+      "vendor_id": "V209",
+      "price_system": 3339767,
+      "price_actual": 3339767,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4137",
+      "employee_id": "EMP1045",
+      "vendor_id": "V212",
+      "price_system": 3614235,
+      "price_actual": 3614235,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4138",
+      "employee_id": "EMP1100",
+      "vendor_id": "V216",
+      "price_system": 1491036,
+      "price_actual": 1491036,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4139",
+      "employee_id": "EMP1089",
+      "vendor_id": "V220",
+      "price_system": 9715912,
+      "price_actual": 6806463,
+      "price_difference": 2909449,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4140",
+      "employee_id": "EMP1109",
+      "vendor_id": "V213",
+      "price_system": 7046914,
+      "price_actual": 6818289,
+      "price_difference": 228625,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4141",
+      "employee_id": "EMP1056",
+      "vendor_id": "V201",
+      "price_system": 3710241,
+      "price_actual": 3710241,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4142",
+      "employee_id": "EMP1000",
+      "vendor_id": "V221",
+      "price_system": 2142953,
+      "price_actual": 435323,
+      "price_difference": 1707630,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4143",
+      "employee_id": "EMP1062",
+      "vendor_id": "V210",
+      "price_system": 4961352,
+      "price_actual": 4961352,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4144",
+      "employee_id": "EMP1054",
+      "vendor_id": "V200",
+      "price_system": 4978702,
+      "price_actual": 4978702,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4145",
+      "employee_id": "EMP1114",
+      "vendor_id": "V218",
+      "price_system": 9168984,
+      "price_actual": 9168984,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4146",
+      "employee_id": "EMP1142",
+      "vendor_id": "V220",
+      "price_system": 1326916,
+      "price_actual": 1326916,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4147",
+      "employee_id": "EMP1052",
+      "vendor_id": "V203",
+      "price_system": 4597706,
+      "price_actual": 4597706,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4148",
+      "employee_id": "EMP1136",
+      "vendor_id": "V218",
+      "price_system": 5506554,
+      "price_actual": 4818543,
+      "price_difference": 688011,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4149",
+      "employee_id": "EMP1056",
+      "vendor_id": "V220",
+      "price_system": 1605409,
+      "price_actual": 1605409,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4150",
+      "employee_id": "EMP1116",
+      "vendor_id": "V210",
+      "price_system": 7849486,
+      "price_actual": 7849486,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4151",
+      "employee_id": "EMP1034",
+      "vendor_id": "V207",
+      "price_system": 6050405,
+      "price_actual": 6050405,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4152",
+      "employee_id": "EMP1062",
+      "vendor_id": "V210",
+      "price_system": 9337735,
+      "price_actual": 9337735,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4153",
+      "employee_id": "EMP1024",
+      "vendor_id": "V203",
+      "price_system": 2725690,
+      "price_actual": 1886,
+      "price_difference": 2723804,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4154",
+      "employee_id": "EMP1089",
+      "vendor_id": "V216",
+      "price_system": 4280772,
+      "price_actual": 4280772,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4155",
+      "employee_id": "EMP1074",
+      "vendor_id": "V206",
+      "price_system": 9197295,
+      "price_actual": 9197295,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4156",
+      "employee_id": "EMP1037",
+      "vendor_id": "V207",
+      "price_system": 6809041,
+      "price_actual": 6809041,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4157",
+      "employee_id": "EMP1129",
+      "vendor_id": "V202",
+      "price_system": 6087268,
+      "price_actual": 6087268,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4158",
+      "employee_id": "EMP1134",
+      "vendor_id": "V221",
+      "price_system": 7155579,
+      "price_actual": 7155579,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4159",
+      "employee_id": "EMP1090",
+      "vendor_id": "V201",
+      "price_system": 1403119,
+      "price_actual": 1403119,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4160",
+      "employee_id": "EMP1016",
+      "vendor_id": "V222",
+      "price_system": 9212420,
+      "price_actual": 8911044,
+      "price_difference": 301376,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4161",
+      "employee_id": "EMP1127",
+      "vendor_id": "V214",
+      "price_system": 1402732,
+      "price_actual": 127496,
+      "price_difference": 1275236,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4162",
+      "employee_id": "EMP1107",
+      "vendor_id": "V223",
+      "price_system": 1506079,
+      "price_actual": 1506079,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4163",
+      "employee_id": "EMP1024",
+      "vendor_id": "V221",
+      "price_system": 2950013,
+      "price_actual": 2950013,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4164",
+      "employee_id": "EMP1087",
+      "vendor_id": "V221",
+      "price_system": 2132658,
+      "price_actual": 2132658,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4165",
+      "employee_id": "EMP1028",
+      "vendor_id": "V204",
+      "price_system": 2985209,
+      "price_actual": 2985209,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4166",
+      "employee_id": "EMP1062",
+      "vendor_id": "V223",
+      "price_system": 5322626,
+      "price_actual": 5322626,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4167",
+      "employee_id": "EMP1113",
+      "vendor_id": "V200",
+      "price_system": 1656951,
+      "price_actual": 1656951,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4168",
+      "employee_id": "EMP1048",
+      "vendor_id": "V203",
+      "price_system": 9399911,
+      "price_actual": 9399911,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4169",
+      "employee_id": "EMP1080",
+      "vendor_id": "V214",
+      "price_system": 4479591,
+      "price_actual": 4479591,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4170",
+      "employee_id": "EMP1083",
+      "vendor_id": "V219",
+      "price_system": 6203916,
+      "price_actual": 6203916,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4171",
+      "employee_id": "EMP1104",
+      "vendor_id": "V218",
+      "price_system": 7026988,
+      "price_actual": 7026988,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4172",
+      "employee_id": "EMP1147",
+      "vendor_id": "V202",
+      "price_system": 8426263,
+      "price_actual": 8426263,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4173",
+      "employee_id": "EMP1117",
+      "vendor_id": "V219",
+      "price_system": 3366610,
+      "price_actual": 3366610,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4174",
+      "employee_id": "EMP1085",
+      "vendor_id": "V210",
+      "price_system": 5180303,
+      "price_actual": 5180303,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4175",
+      "employee_id": "EMP1062",
+      "vendor_id": "V216",
+      "price_system": 5684346,
+      "price_actual": 5326290,
+      "price_difference": 358056,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4176",
+      "employee_id": "EMP1103",
+      "vendor_id": "V212",
+      "price_system": 1458298,
+      "price_actual": 1458298,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4177",
+      "employee_id": "EMP1048",
+      "vendor_id": "V210",
+      "price_system": 2047343,
+      "price_actual": 810156,
+      "price_difference": 1237187,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4178",
+      "employee_id": "EMP1070",
+      "vendor_id": "V201",
+      "price_system": 6719720,
+      "price_actual": 6719720,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4179",
+      "employee_id": "EMP1000",
+      "vendor_id": "V208",
+      "price_system": 9493836,
+      "price_actual": 7310669,
+      "price_difference": 2183167,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4180",
+      "employee_id": "EMP1140",
+      "vendor_id": "V201",
+      "price_system": 5620650,
+      "price_actual": 5620650,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4181",
+      "employee_id": "EMP1122",
+      "vendor_id": "V220",
+      "price_system": 2755692,
+      "price_actual": 71452,
+      "price_difference": 2684240,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4182",
+      "employee_id": "EMP1061",
+      "vendor_id": "V208",
+      "price_system": 2730228,
+      "price_actual": 1787740,
+      "price_difference": 942488,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4183",
+      "employee_id": "EMP1031",
+      "vendor_id": "V208",
+      "price_system": 2946793,
+      "price_actual": 2946793,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4184",
+      "employee_id": "EMP1028",
+      "vendor_id": "V207",
+      "price_system": 2569123,
+      "price_actual": 2569123,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4185",
+      "employee_id": "EMP1048",
+      "vendor_id": "V216",
+      "price_system": 7115518,
+      "price_actual": 7115518,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4186",
+      "employee_id": "EMP1029",
+      "vendor_id": "V200",
+      "price_system": 8393979,
+      "price_actual": 8393979,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4187",
+      "employee_id": "EMP1143",
+      "vendor_id": "V224",
+      "price_system": 9437482,
+      "price_actual": 9437482,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4188",
+      "employee_id": "EMP1018",
+      "vendor_id": "V210",
+      "price_system": 2622572,
+      "price_actual": 2622572,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4189",
+      "employee_id": "EMP1017",
+      "vendor_id": "V207",
+      "price_system": 4220281,
+      "price_actual": 4220281,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4190",
+      "employee_id": "EMP1000",
+      "vendor_id": "V209",
+      "price_system": 3689784,
+      "price_actual": 3689784,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4191",
+      "employee_id": "EMP1077",
+      "vendor_id": "V224",
+      "price_system": 9175602,
+      "price_actual": 8293034,
+      "price_difference": 882568,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4192",
+      "employee_id": "EMP1114",
+      "vendor_id": "V206",
+      "price_system": 1709662,
+      "price_actual": 1709662,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4193",
+      "employee_id": "EMP1112",
+      "vendor_id": "V202",
+      "price_system": 7863382,
+      "price_actual": 5087864,
+      "price_difference": 2775518,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4194",
+      "employee_id": "EMP1113",
+      "vendor_id": "V202",
+      "price_system": 6321129,
+      "price_actual": 6321129,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4195",
+      "employee_id": "EMP1062",
+      "vendor_id": "V217",
+      "price_system": 9859060,
+      "price_actual": 9859060,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4196",
+      "employee_id": "EMP1131",
+      "vendor_id": "V204",
+      "price_system": 6672605,
+      "price_actual": 6672605,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4197",
+      "employee_id": "EMP1128",
+      "vendor_id": "V211",
+      "price_system": 3592670,
+      "price_actual": 3592670,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4198",
+      "employee_id": "EMP1007",
+      "vendor_id": "V211",
+      "price_system": 5810833,
+      "price_actual": 3094542,
+      "price_difference": 2716291,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4199",
+      "employee_id": "EMP1054",
+      "vendor_id": "V218",
+      "price_system": 7703459,
+      "price_actual": 7703459,
+      "price_difference": 0,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4200",
+      "employee_id": "EMP1000",
+      "vendor_id": "V200",
+      "price_system": 3250000,
+      "price_actual": 2740000,
+      "price_difference": 510000,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4201",
+      "employee_id": "EMP1000",
+      "vendor_id": "V200",
+      "price_system": 3250000,
+      "price_actual": 2740000,
+      "price_difference": 510000,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4202",
+      "employee_id": "EMP1000",
+      "vendor_id": "V200",
+      "price_system": 3250000,
+      "price_actual": 2740000,
+      "price_difference": 510000,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4203",
+      "employee_id": "EMP1000",
+      "vendor_id": "V200",
+      "price_system": 3250000,
+      "price_actual": 2740000,
+      "price_difference": 510000,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": 97.0
+    },
+    {
+      "procurement_id": "P4204",
+      "employee_id": "EMP1000",
+      "vendor_id": "V200",
+      "price_system": 3250000,
+      "price_actual": 2740000,
+      "price_difference": 510000,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": 97.0
+    },
+    {
+      "procurement_id": "P4205",
+      "employee_id": "EMP1169",
+      "vendor_id": "V200",
+      "price_system": 2066248,
+      "price_actual": 2054426,
+      "price_difference": 11822,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4206",
+      "employee_id": "EMP1000",
+      "vendor_id": "V216",
+      "price_system": 4733535,
+      "price_actual": 4890489,
+      "price_difference": 156954,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4207",
+      "employee_id": "EMP1134",
+      "vendor_id": "V218",
+      "price_system": 5889849,
+      "price_actual": 6000017,
+      "price_difference": 110168,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4208",
+      "employee_id": "EMP1094",
+      "vendor_id": "V217",
+      "price_system": 7687137,
+      "price_actual": 7515110,
+      "price_difference": 172027,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4209",
+      "employee_id": "EMP1131",
+      "vendor_id": "V209",
+      "price_system": 2499100,
+      "price_actual": 1102036,
+      "price_difference": 1397064,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4210",
+      "employee_id": "EMP1181",
+      "vendor_id": "V208",
+      "price_system": 3605811,
+      "price_actual": 3614621,
+      "price_difference": 8810,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4211",
+      "employee_id": "EMP1157",
+      "vendor_id": "V204",
+      "price_system": 6850463,
+      "price_actual": 7181327,
+      "price_difference": 330864,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4212",
+      "employee_id": "EMP1073",
+      "vendor_id": "V203",
+      "price_system": 2998623,
+      "price_actual": 3111994,
+      "price_difference": 113371,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4213",
+      "employee_id": "EMP1028",
+      "vendor_id": "V223",
+      "price_system": 3959112,
+      "price_actual": 4355222,
+      "price_difference": 396110,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4214",
+      "employee_id": "EMP1095",
+      "vendor_id": "V209",
+      "price_system": 5022083,
+      "price_actual": 5006542,
+      "price_difference": 15541,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4215",
+      "employee_id": "EMP1068",
+      "vendor_id": "V204",
+      "price_system": 4294177,
+      "price_actual": 4188824,
+      "price_difference": 105353,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4216",
+      "employee_id": "EMP1135",
+      "vendor_id": "V220",
+      "price_system": 3551051,
+      "price_actual": 3556517,
+      "price_difference": 5466,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4217",
+      "employee_id": "EMP1158",
+      "vendor_id": "V216",
+      "price_system": 5660106,
+      "price_actual": 10934026,
+      "price_difference": 5273920,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4218",
+      "employee_id": "EMP1186",
+      "vendor_id": "V216",
+      "price_system": 6078599,
+      "price_actual": 7139681,
+      "price_difference": 1061082,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4219",
+      "employee_id": "EMP1061",
+      "vendor_id": "V206",
+      "price_system": 7446334,
+      "price_actual": 7641595,
+      "price_difference": 195261,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4220",
+      "employee_id": "EMP1172",
+      "vendor_id": "V201",
+      "price_system": 3097827,
+      "price_actual": 3078034,
+      "price_difference": 19793,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4221",
+      "employee_id": "EMP1139",
+      "vendor_id": "V209",
+      "price_system": 7746508,
+      "price_actual": 9740367,
+      "price_difference": 1993859,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4222",
+      "employee_id": "EMP1152",
+      "vendor_id": "V205",
+      "price_system": 3581939,
+      "price_actual": 3590996,
+      "price_difference": 9057,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4223",
+      "employee_id": "EMP1016",
+      "vendor_id": "V215",
+      "price_system": 3648071,
+      "price_actual": 3729667,
+      "price_difference": 81596,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4224",
+      "employee_id": "EMP1087",
+      "vendor_id": "V209",
+      "price_system": 1254293,
+      "price_actual": 1206660,
+      "price_difference": 47633,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4225",
+      "employee_id": "EMP1123",
+      "vendor_id": "V202",
+      "price_system": 3882848,
+      "price_actual": 8520214,
+      "price_difference": 4637366,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4226",
+      "employee_id": "EMP1072",
+      "vendor_id": "V220",
+      "price_system": 3479693,
+      "price_actual": 3473539,
+      "price_difference": 6154,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4227",
+      "employee_id": "EMP1038",
+      "vendor_id": "V219",
+      "price_system": 7013734,
+      "price_actual": 9350592,
+      "price_difference": 2336858,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4228",
+      "employee_id": "EMP1154",
+      "vendor_id": "V220",
+      "price_system": 2496590,
+      "price_actual": 2507951,
+      "price_difference": 11361,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4229",
+      "employee_id": "EMP1089",
+      "vendor_id": "V203",
+      "price_system": 8202841,
+      "price_actual": 8286854,
+      "price_difference": 84013,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4230",
+      "employee_id": "EMP1001",
+      "vendor_id": "V200",
+      "price_system": 1148845,
+      "price_actual": 1131500,
+      "price_difference": 17345,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4231",
+      "employee_id": "EMP1191",
+      "vendor_id": "V210",
+      "price_system": 9014013,
+      "price_actual": 9039299,
+      "price_difference": 25286,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4232",
+      "employee_id": "EMP1029",
+      "vendor_id": "V203",
+      "price_system": 8322570,
+      "price_actual": 9791732,
+      "price_difference": 1469162,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4233",
+      "employee_id": "EMP1048",
+      "vendor_id": "V219",
+      "price_system": 2643662,
+      "price_actual": 2674307,
+      "price_difference": 30645,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4234",
+      "employee_id": "EMP1082",
+      "vendor_id": "V208",
+      "price_system": 8316262,
+      "price_actual": 8610924,
+      "price_difference": 294662,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4235",
+      "employee_id": "EMP1115",
+      "vendor_id": "V210",
+      "price_system": 5822651,
+      "price_actual": 5811138,
+      "price_difference": 11513,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4236",
+      "employee_id": "EMP1109",
+      "vendor_id": "V217",
+      "price_system": 4853523,
+      "price_actual": 4966580,
+      "price_difference": 113057,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4237",
+      "employee_id": "EMP1134",
+      "vendor_id": "V222",
+      "price_system": 9466292,
+      "price_actual": 9637670,
+      "price_difference": 171378,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4238",
+      "employee_id": "EMP1148",
+      "vendor_id": "V222",
+      "price_system": 2481127,
+      "price_actual": 2676469,
+      "price_difference": 195342,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4239",
+      "employee_id": "EMP1159",
+      "vendor_id": "V224",
+      "price_system": 3643608,
+      "price_actual": 3711812,
+      "price_difference": 68204,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4240",
+      "employee_id": "EMP1141",
+      "vendor_id": "V223",
+      "price_system": 6258146,
+      "price_actual": 8634929,
+      "price_difference": 2376783,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4241",
+      "employee_id": "EMP1069",
+      "vendor_id": "V205",
+      "price_system": 4764357,
+      "price_actual": 4702988,
+      "price_difference": 61369,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4242",
+      "employee_id": "EMP1054",
+      "vendor_id": "V208",
+      "price_system": 6035619,
+      "price_actual": 5886453,
+      "price_difference": 149166,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4243",
+      "employee_id": "EMP1013",
+      "vendor_id": "V212",
+      "price_system": 4857732,
+      "price_actual": 6155503,
+      "price_difference": 1297771,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4244",
+      "employee_id": "EMP1053",
+      "vendor_id": "V204",
+      "price_system": 1103068,
+      "price_actual": 1091805,
+      "price_difference": 11263,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4245",
+      "employee_id": "EMP1094",
+      "vendor_id": "V223",
+      "price_system": 6917557,
+      "price_actual": 6908336,
+      "price_difference": 9221,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4246",
+      "employee_id": "EMP1124",
+      "vendor_id": "V209",
+      "price_system": 7356864,
+      "price_actual": 10128493,
+      "price_difference": 2771629,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4247",
+      "employee_id": "EMP1168",
+      "vendor_id": "V210",
+      "price_system": 5714334,
+      "price_actual": 5846572,
+      "price_difference": 132238,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4248",
+      "employee_id": "EMP1000",
+      "vendor_id": "V203",
+      "price_system": 4947992,
+      "price_actual": 5778263,
+      "price_difference": 830271,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4249",
+      "employee_id": "EMP1094",
+      "vendor_id": "V212",
+      "price_system": 5713496,
+      "price_actual": 5738150,
+      "price_difference": 24654,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4250",
+      "employee_id": "EMP1072",
+      "vendor_id": "V203",
+      "price_system": 8675016,
+      "price_actual": 8498275,
+      "price_difference": 176741,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4251",
+      "employee_id": "EMP1065",
+      "vendor_id": "V223",
+      "price_system": 7332100,
+      "price_actual": 7322010,
+      "price_difference": 10090,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4252",
+      "employee_id": "EMP1170",
+      "vendor_id": "V214",
+      "price_system": 7589960,
+      "price_actual": 7604853,
+      "price_difference": 14893,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4253",
+      "employee_id": "EMP1117",
+      "vendor_id": "V205",
+      "price_system": 5702062,
+      "price_actual": 4159100,
+      "price_difference": 1542962,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4254",
+      "employee_id": "EMP1018",
+      "vendor_id": "V215",
+      "price_system": 9062320,
+      "price_actual": 9070704,
+      "price_difference": 8384,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4255",
+      "employee_id": "EMP1121",
+      "vendor_id": "V213",
+      "price_system": 2604225,
+      "price_actual": 2633936,
+      "price_difference": 29711,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4256",
+      "employee_id": "EMP1126",
+      "vendor_id": "V218",
+      "price_system": 4900805,
+      "price_actual": 4925091,
+      "price_difference": 24286,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4257",
+      "employee_id": "EMP1022",
+      "vendor_id": "V207",
+      "price_system": 5587807,
+      "price_actual": 5080711,
+      "price_difference": 507096,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4258",
+      "employee_id": "EMP1085",
+      "vendor_id": "V200",
+      "price_system": 1669748,
+      "price_actual": 1658817,
+      "price_difference": 10931,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4259",
+      "employee_id": "EMP1014",
+      "vendor_id": "V202",
+      "price_system": 1226670,
+      "price_actual": 1240944,
+      "price_difference": 14274,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4260",
+      "employee_id": "EMP1059",
+      "vendor_id": "V205",
+      "price_system": 3526243,
+      "price_actual": 3901791,
+      "price_difference": 375548,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4261",
+      "employee_id": "EMP1107",
+      "vendor_id": "V223",
+      "price_system": 1350465,
+      "price_actual": 1351429,
+      "price_difference": 964,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4262",
+      "employee_id": "EMP1130",
+      "vendor_id": "V215",
+      "price_system": 7398412,
+      "price_actual": 7214444,
+      "price_difference": 183968,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4263",
+      "employee_id": "EMP1155",
+      "vendor_id": "V217",
+      "price_system": 1977990,
+      "price_actual": 1973139,
+      "price_difference": 4851,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4264",
+      "employee_id": "EMP1130",
+      "vendor_id": "V223",
+      "price_system": 922709,
+      "price_actual": 906946,
+      "price_difference": 15763,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4265",
+      "employee_id": "EMP1182",
+      "vendor_id": "V211",
+      "price_system": 5637890,
+      "price_actual": 4417469,
+      "price_difference": 1220421,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4266",
+      "employee_id": "EMP1002",
+      "vendor_id": "V205",
+      "price_system": 1905987,
+      "price_actual": 1935137,
+      "price_difference": 29150,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4267",
+      "employee_id": "EMP1110",
+      "vendor_id": "V221",
+      "price_system": 2806869,
+      "price_actual": 2807417,
+      "price_difference": 548,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4268",
+      "employee_id": "EMP1096",
+      "vendor_id": "V200",
+      "price_system": 5688406,
+      "price_actual": 5671838,
+      "price_difference": 16568,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4269",
+      "employee_id": "EMP1146",
+      "vendor_id": "V216",
+      "price_system": 9493050,
+      "price_actual": 9517712,
+      "price_difference": 24662,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4270",
+      "employee_id": "EMP1072",
+      "vendor_id": "V204",
+      "price_system": 3805400,
+      "price_actual": 3817748,
+      "price_difference": 12348,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4271",
+      "employee_id": "EMP1114",
+      "vendor_id": "V201",
+      "price_system": 7563448,
+      "price_actual": 7571623,
+      "price_difference": 8175,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4272",
+      "employee_id": "EMP1128",
+      "vendor_id": "V222",
+      "price_system": 1235468,
+      "price_actual": 1242094,
+      "price_difference": 6626,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4273",
+      "employee_id": "EMP1111",
+      "vendor_id": "V220",
+      "price_system": 2011489,
+      "price_actual": 2034391,
+      "price_difference": 22902,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4274",
+      "employee_id": "EMP1111",
+      "vendor_id": "V217",
+      "price_system": 2854763,
+      "price_actual": 2871192,
+      "price_difference": 16429,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4275",
+      "employee_id": "EMP1170",
+      "vendor_id": "V207",
+      "price_system": 3106520,
+      "price_actual": 3097574,
+      "price_difference": 8946,
+      "account_mismatch_flag": 0,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4276",
+      "employee_id": "EMP1021",
+      "vendor_id": "V209",
+      "price_system": 7891985,
+      "price_actual": 7958295,
+      "price_difference": 66310,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 0,
+      "fraud_probability": null
+    },
+    {
+      "procurement_id": "P4277",
+      "employee_id": "EMP1000",
+      "vendor_id": "V200",
+      "price_system": 3250000,
+      "price_actual": 2740000,
+      "price_difference": 510000,
+      "account_mismatch_flag": 1,
+      "fraud_flag": 1,
+      "fraud_probability": 100.0
+    }
+  ]
+}
