@@ -1,5 +1,5 @@
 from predictor import predict_all
-from risk_engine import generate_report
+from risk_engine import generate_report, generate_report_data
 
 # --------------------------------------------------
 # Sample Insider Data
@@ -82,6 +82,15 @@ results = predict_all(
     reimbursement_data,
     payroll_data
 )
+
+report = generate_report_data(
+    results["insider"],
+    results["procurement"],
+    results["reimbursement"],
+    results["payroll"]
+)
+
+print(report)
 
 print(results)
 

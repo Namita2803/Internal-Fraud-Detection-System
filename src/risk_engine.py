@@ -145,6 +145,52 @@ def generate_report(
     print("=" * 45)
 
 
+    # -----------------------------
+# Return Report Data
+# -----------------------------
+
+def generate_report_data(
+    insider_prob,
+    procurement_prob,
+    reimbursement_prob,
+    payroll_prob
+):
+
+    score = calculate_risk_score(
+        insider_prob,
+        procurement_prob,
+        reimbursement_prob,
+        payroll_prob
+    )
+
+    level = get_risk_level(score)
+
+    reasons = generate_explanation(
+        insider_prob,
+        procurement_prob,
+        reimbursement_prob,
+        payroll_prob
+    )
+
+    return {
+
+        "overall_score": score,
+
+        "risk_level": level,
+
+        "insider_probability": insider_prob,
+
+        "procurement_probability": procurement_prob,
+
+        "reimbursement_probability": reimbursement_prob,
+
+        "payroll_probability": payroll_prob,
+
+        "reasons": reasons
+
+    }
+
+
 # -----------------------------
 # Test the Risk Engine
 # -----------------------------
