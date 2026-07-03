@@ -45,6 +45,27 @@ def load_models():
 
 models = load_models()
 
+# --------------------------------------------------
+# Validate Input
+# --------------------------------------------------
+
+def validate_input(data, required_columns):
+
+    missing = []
+
+    for column in required_columns:
+
+        if column not in data:
+
+            missing.append(column)
+
+    if missing:
+
+        raise ValueError(
+            "Missing required fields: " +
+            ", ".join(missing)
+        )
+
 
 # --------------------------------------------------
 # Insider Prediction
@@ -52,11 +73,17 @@ models = load_models()
 
 def predict_insider(data):
 
-    df = pd.DataFrame([data])
+    try:
 
-    probability = models["insider"].predict_proba(df)[0][1]
+        df = pd.DataFrame([data])
 
-    return probability
+        probability = models["insider"].predict_proba(df)[0][1]
+
+        return float(probability)
+
+    except Exception as e:
+
+        raise ValueError(f"Insider prediction failed: {e}")
 
 
 # --------------------------------------------------
@@ -65,11 +92,17 @@ def predict_insider(data):
 
 def predict_procurement(data):
 
-    df = pd.DataFrame([data])
+    try:
 
-    probability = models["procurement"].predict_proba(df)[0][1]
+        df = pd.DataFrame([data])
 
-    return probability
+        probability = models["procurement"].predict_proba(df)[0][1]
+
+        return float(probability)
+
+    except Exception as e:
+
+        raise ValueError(f"Procurement prediction failed: {e}")
 
 
 # --------------------------------------------------
@@ -78,11 +111,49 @@ def predict_procurement(data):
 
 def predict_reimbursement(data):
 
-    df = pd.DataFrame([data])
+    try:
 
-    probability = models["reimbursement"].predict_proba(df)[0][1]
+        required_columns = [
 
-    return probability
+            "Department",
+
+            "Expense_Type",
+
+            "Claim_Amount",
+
+            "Approval_Status",
+
+            "Designation",
+
+            "Employee_Tenure_Months",
+
+            "Receipt_Available",
+
+            "Duplicate_Claim",
+
+            "Previous_Claims_Count",
+
+            "Approval_Time_Days",
+
+            "Weekend_Claim",
+
+            "Policy_Violation_Count",
+
+            "Payment_Method"
+
+        ]
+
+        validate_input(data, required_columns)
+
+        df = pd.DataFrame([data])
+
+        probability = models["reimbursement"].predict_proba(df)[0][1]
+
+        return float(probability)
+
+    except Exception as e:
+
+        raise ValueError(f"Reimbursement prediction failed: {e}")
 
 
 # --------------------------------------------------
@@ -91,11 +162,20 @@ def predict_reimbursement(data):
 
 def predict_payroll(data):
 
-    df = pd.DataFrame([data])
+    try:
+        
 
-    probability = models["payroll"].predict_proba(df)[0][1]
+        
 
-    return probability
+        df = pd.DataFrame([data])
+
+        probability = models["payroll"].predict_proba(df)[0][1]
+
+        return float(probability)
+
+    except Exception as e:
+
+        raise ValueError(f"Payroll prediction failed: {e}")
 
 
 # --------------------------------------------------

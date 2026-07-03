@@ -174,21 +174,21 @@ def generate_report_data(
 
     return {
 
-        "overall_score": score,
+    "overall_score": float(score),
 
-        "risk_level": level,
+    "risk_level": level,
 
-        "insider_probability": insider_prob,
+    "insider_probability": float(insider_prob),
 
-        "procurement_probability": procurement_prob,
+    "procurement_probability": float(procurement_prob),
 
-        "reimbursement_probability": reimbursement_prob,
+    "reimbursement_probability": float(reimbursement_prob),
 
-        "payroll_probability": payroll_prob,
+    "payroll_probability": float(payroll_prob),
 
-        "reasons": reasons
+    "reasons": reasons
 
-    }
+}
 
 
 # -----------------------------
