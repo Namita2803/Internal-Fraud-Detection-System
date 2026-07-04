@@ -18,6 +18,15 @@ INSIDER_MODEL = os.path.join(MODEL_DIR, "insider_model.pkl")
 PROCUREMENT_MODEL = os.path.join(MODEL_DIR, "procurement_model.pkl")
 REIMBURSEMENT_MODEL = os.path.join(MODEL_DIR, "reimbursement_model.pkl")
 PAYROLL_MODEL = os.path.join(MODEL_DIR, "payroll_model.pkl")
+PAYROLL_DEPARTMENT_ENCODER = os.path.join(
+    MODEL_DIR,
+    "payroll_department_encoder.pkl"
+)
+
+PAYROLL_POSITION_ENCODER = os.path.join(
+    MODEL_DIR,
+    "payroll_position_encoder.pkl"
+)
 
 
 # --------------------------------------------------
@@ -39,6 +48,12 @@ def load_models():
 
     with open(PAYROLL_MODEL, "rb") as f:
         models["payroll"] = pickle.load(f)
+
+    with open(PAYROLL_DEPARTMENT_ENCODER, "rb") as f:
+        models["payroll_department_encoder"] = pickle.load(f)
+        
+    with open(PAYROLL_POSITION_ENCODER, "rb") as f:
+        models["payroll_position_encoder"] = pickle.load(f)
 
     return models
 
@@ -163,11 +178,32 @@ def predict_reimbursement(data):
 def predict_payroll(data):
 
     try:
-        
 
-        
+        required_columns = [
+
+            "department",
+
+            "position",
+
+            "salary_system",
+
+            "salary_received",
+
+            "salary_difference"
+
+        ]
+
+        validate_input(data, required_columns)
 
         df = pd.DataFrame([data])
+
+        df["department"] = models[
+            "payroll_department_encoder"
+        ].transform(df["department"])
+
+        df["position"] = models[
+            "payroll_position_encoder"
+        ].transform(df["position"])
 
         probability = models["payroll"].predict_proba(df)[0][1]
 
@@ -210,12 +246,12 @@ def predict_all(
 if __name__ == "__main__":
 
     payroll_data = {
-        "department": 0,
-        "position": 0,
-        "salary_system": 50000,
-        "salary_received": 50000,
-        "salary_difference": 0
-    }
+    "department": "Finance",
+    "position": "Manager",
+    "salary_system": 50000,
+    "salary_received": 50000,
+    "salary_difference": 0
+}
 
     probability = predict_payroll(payroll_data)
 
