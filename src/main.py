@@ -65,8 +65,8 @@ reimbursement_data = {
 # --------------------------------------------------
 
 payroll_data = {
-    "department": 0,
-    "position": 0,
+    "department": "Finance",
+    "position": "Manager",
     "salary_system": 50000,
     "salary_received": 50000,
     "salary_difference": 0

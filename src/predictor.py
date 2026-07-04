@@ -3,7 +3,7 @@ Predictor Module
 
 Loads all trained models and returns fraud probabilities.
 """
-
+import joblib
 import pickle
 import os
 import pandas as pd
@@ -49,11 +49,12 @@ def load_models():
     with open(PAYROLL_MODEL, "rb") as f:
         models["payroll"] = pickle.load(f)
 
-    with open(PAYROLL_DEPARTMENT_ENCODER, "rb") as f:
-        models["payroll_department_encoder"] = pickle.load(f)
-        
-    with open(PAYROLL_POSITION_ENCODER, "rb") as f:
-        models["payroll_position_encoder"] = pickle.load(f)
+    models["payroll_department_encoder"] = joblib.load(
+    PAYROLL_DEPARTMENT_ENCODER
+)
+    models["payroll_position_encoder"] = joblib.load(
+    PAYROLL_POSITION_ENCODER
+)
 
     return models
 
@@ -176,6 +177,7 @@ def predict_reimbursement(data):
 # --------------------------------------------------
 
 def predict_payroll(data):
+    
 
     try:
 
