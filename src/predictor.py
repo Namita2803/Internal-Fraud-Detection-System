@@ -50,17 +50,26 @@ def load_models():
         models["payroll"] = pickle.load(f)
 
     models["payroll_department_encoder"] = joblib.load(
-    PAYROLL_DEPARTMENT_ENCODER
+        PAYROLL_DEPARTMENT_ENCODER
 )
     models["payroll_position_encoder"] = joblib.load(
-    PAYROLL_POSITION_ENCODER
+        PAYROLL_POSITION_ENCODER
 )
 
     return models
 
 
 models = load_models()
+# --------------------------------------------------
+# Payroll Encoder Classes
+# --------------------------------------------------
 
+def get_payroll_departments():
+    return list(models["payroll_department_encoder"].classes_)
+
+
+def get_payroll_positions():
+    return list(models["payroll_position_encoder"].classes_)
 # --------------------------------------------------
 # Validate Input
 # --------------------------------------------------
