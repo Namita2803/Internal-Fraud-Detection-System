@@ -57,37 +57,167 @@ with tab_insider:
     insider_df = load_insider()
 
     with st.form("insider_form"):
-        c1, c2, c3 = st.columns(3)
-        with c1:
-            employee_department = st.selectbox("Department", sorted(insider_df["employee_department"].dropna().unique()))
-            employee_campus = st.selectbox("Campus", sorted(insider_df["employee_campus"].dropna().unique()))
-            employee_position = st.selectbox("Position", sorted(insider_df["employee_position"].dropna().unique()))
-            employee_seniority_years = st.number_input("Seniority (Years)", min_value=0, max_value=45, value=5)
-            employee_classification = st.selectbox("Employee Classification", sorted(insider_df["employee_classification"].dropna().unique()))
-            employee_origin_country = st.selectbox("Origin Country", sorted(insider_df["employee_origin_country"].dropna().unique()))
-        with c2:
-            total_printed_pages = st.number_input("Total Printed Pages", min_value=0, value=0)
-            num_printed_pages_off_hours = st.number_input("Printed Pages (Off Hours)", min_value=0, value=0)
-            total_files_burned = st.number_input("Total Files Burned", min_value=0, value=0)
-            burned_from_other = st.selectbox("Burned From Other Device", [0, 1])
-            trip_day_number = st.number_input("Trip Day Number", min_value=0, max_value=30, value=0)
-            hostility_country_level = st.selectbox("Hostility Country Level", [0, 1, 2, 3])
-        with c3:
-            num_entries = st.number_input("Number of Building Entries", min_value=0, value=1)
-            num_unique_campus = st.number_input("Unique Campuses Visited", min_value=0, max_value=5, value=1)
-            is_contractor = st.selectbox("Is Contractor", [0, 1])
-            has_foreign_citizenship = st.selectbox("Foreign Citizenship", [0, 1])
-            has_criminal_record = st.selectbox("Criminal Record on File", [0, 1])
-            has_medical_history = st.selectbox("Medical History on File", [0, 1])
+        section_label("Employee Information")
 
-        c4, c5 = st.columns(2)
-        with c4:
-            is_abroad = st.selectbox("Currently Abroad", [0, 1])
-            late_exit_flag = st.selectbox("Late Exit Flag", [0, 1])
-        with c5:
-            entry_during_weekend = st.selectbox("Weekend Entry Flag", [0, 1])
+        emp_left, emp_right = st.columns(2)
 
-        submitted = st.form_submit_button("Run Insider Threat Inference")
+        with emp_left:
+            employee_department = st.selectbox(
+                "Department",
+                sorted(insider_df["employee_department"].dropna().unique())
+            )
+
+            employee_position = st.selectbox(
+                "Position",
+                sorted(insider_df["employee_position"].dropna().unique())
+            )
+
+            employee_campus = st.selectbox(
+                "Campus",
+                sorted(insider_df["employee_campus"].dropna().unique())
+            )
+
+            employee_seniority_years = st.number_input(
+                "Years at Organization",
+                min_value=0,
+                max_value=45,
+                value=5
+            )
+
+            is_contractor = int(
+                st.checkbox(
+                    "Contract Employee",
+                    value=False
+                )
+            )
+
+            has_foreign_citizenship = int(
+                st.checkbox(
+                    "Foreign Citizenship",
+                    value=False
+                )
+            )
+
+        with emp_right:
+            employee_classification = st.selectbox(
+                "Classification",
+                sorted(insider_df["employee_classification"].dropna().unique())
+            )
+
+            employee_origin_country = st.selectbox(
+                "Country of Origin",
+                sorted(insider_df["employee_origin_country"].dropna().unique())
+            )
+
+            has_criminal_record = int(
+                st.checkbox(
+                    "Criminal Record",
+                    value=False
+                )
+            )
+
+            has_medical_history = int(
+                st.checkbox(
+                    "Medical History",
+                    value=False
+                )
+            )
+
+        st.markdown("<br>", unsafe_allow_html=True)
+        section_label("Behaviour Monitoring")
+
+        beh_left, beh_right = st.columns(2)
+
+        with beh_left:
+            total_printed_pages = st.number_input(
+                "Printed Pages",
+                min_value=0,
+                value=0
+            )
+
+            num_printed_pages_off_hours = st.number_input(
+                "Off-Hours Printing",
+                min_value=0,
+                value=0
+            )
+
+            total_files_burned = st.number_input(
+                "Files Burned",
+                min_value=0,
+                value=0
+            )
+
+        with beh_right:
+            num_entries = st.number_input(
+                "Facility Entries",
+                min_value=0,
+                value=0
+            )
+
+            num_unique_campus = st.number_input(
+                "Campuses Visited",
+                min_value=0,
+                value=0
+            )
+
+            burned_from_other = int(
+                st.checkbox(
+                    "External Device Used",
+                    value=False
+                )
+            )
+        
+        st.markdown("<br>", unsafe_allow_html=True)
+        section_label("Travel & Access")
+
+        travel_left, travel_right = st.columns(2)
+
+        with travel_left:
+            is_abroad = int(
+                st.checkbox(
+                    "Currently Abroad",
+                    value=False,
+                    help="Select if the employee is currently outside the country."
+                )
+            )
+
+            entry_during_weekend = int(
+                st.checkbox(
+                    "Weekend Facility Access",
+                    value=False,
+                    help="Employee accessed company premises during the weekend."
+                )
+            )
+
+            trip_day_number = st.number_input(
+                "Travel Days",
+                min_value=0,
+                max_value=30,
+                value=0
+            )
+
+        with travel_right:
+            late_exit_flag = int(
+                st.checkbox(
+                    "Late Exit Detected",
+                    value=False,
+                    help="Employee exited the premises after normal working hours."
+                )
+            )
+
+            hostility_country_level = st.number_input(
+                "Country Risk Level",
+                min_value=0,
+                value=0
+            )
+        
+        left, center, right = st.columns([1, 2, 1])
+
+        with center:
+            submitted = st.form_submit_button(
+                "Run Insider Threat Inference",
+                use_container_width=True
+            )
 
     if submitted:
         payload = {
