@@ -90,7 +90,38 @@ def generate_explanation(
 
 
 # -----------------------------
+<<<<<<< Updated upstream
 # Display Final Report (UPDATED CALL SIGNATURE)
+=======
+# Generate Critical Alerts
+# -----------------------------
+def generate_critical_alerts(
+    insider_prob,
+    procurement_prob,
+    reimbursement_prob,
+    payroll_prob
+):
+
+    alerts = []
+
+    if insider_prob >= 0.80:
+        alerts.append("CRITICAL: High Insider Threat detected.")
+
+    if procurement_prob >= 0.80:
+        alerts.append("CRITICAL: High Procurement Fraud detected.")
+
+    if reimbursement_prob >= 0.80:
+        alerts.append("CRITICAL: High Reimbursement Fraud detected.")
+
+    if payroll_prob >= 0.80:
+        alerts.append("CRITICAL: High Payroll Fraud detected.")
+
+    return alerts
+
+
+# -----------------------------
+# Display Final Report
+>>>>>>> Stashed changes
 # -----------------------------
 def generate_report(
     insider_prob,
@@ -98,6 +129,12 @@ def generate_report(
     reimbursement_prob,
     payroll_prob
 ):
+<<<<<<< Updated upstream
+=======
+    
+
+
+>>>>>>> Stashed changes
     score = calculate_risk_score(
         insider_prob,
         procurement_prob,
@@ -115,6 +152,14 @@ def generate_report(
         payroll_prob
     )
 
+
+    alerts = generate_critical_alerts(
+    insider_prob,
+    procurement_prob,
+    reimbursement_prob,
+    payroll_prob
+)
+
     print("=" * 45)
     print(" INTERNAL FRAUD DETECTION REPORT ")
     print("=" * 45)
@@ -128,6 +173,22 @@ def generate_report(
     print(f"Procurement Model   : {procurement_prob:.2f}")
     print(f"Reimbursement Model : {reimbursement_prob:.2f}")
     print(f"Payroll Model       : {payroll_prob:.2f}")
+
+
+    
+
+    print("\nCritical Alerts")
+    print("------------------------------")
+
+    if alerts:
+       
+
+       for alert in alerts:
+
+        print(f"⚠ {alert}")
+    else:
+
+        print("No critical alerts.")
 
     print("\nReasons")
     print("------------------------------")
@@ -162,7 +223,15 @@ def generate_report_data(
         payroll_prob
     )
 
+    alerts = generate_critical_alerts(
+    insider_prob,
+    procurement_prob,
+    reimbursement_prob,
+    payroll_prob
+)
+
     return {
+<<<<<<< Updated upstream
         "overall_score": float(score),
         "risk_level": level,
         "insider_probability": float(insider_prob),
@@ -175,6 +244,29 @@ def generate_report_data(
 
 
 # Test the Risk Engine (UPDATED WITH COMPARISON CASES)
+=======
+
+    "overall_score": float(score),
+
+    "risk_level": level,
+
+    "insider_probability": float(insider_prob),
+
+    "procurement_probability": float(procurement_prob),
+
+    "reimbursement_probability": float(reimbursement_prob),
+
+    "payroll_probability": float(payroll_prob),
+
+    "critical_alerts": alerts,
+
+    "reasons": reasons
+
+}
+
+# -----------------------------
+# Test the Risk Engine
+>>>>>>> Stashed changes
 # -----------------------------
 if __name__ == "__main__":
     print("\n--- TEST 1: The 98% Payroll Fraudster ---")
