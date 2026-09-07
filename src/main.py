@@ -6,11 +6,13 @@ import os
 
 from  .predictor import predict_all
 from  .risk_engine import generate_report_data
+
 def analyze_single_employee(target_emp_id):
     """
     Finds an employee in the JSON database, filters all department lists 
     by their ID, maps them to dictionaries, and generates a risk report.
     """
+
     # 1. Dynamically locate and load the JSON database file
     BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     JSON_PATH = os.path.join(BASE_DIR, "datasets", "fraud_system_full.json")
@@ -39,6 +41,7 @@ def analyze_single_employee(target_emp_id):
     reimburse_rec = next((item for item in database.get("reimbursement", []) if item.get("employee_id") == target_emp_id), {})
     payroll_rec = next((item for item in database.get("payroll", []) if item.get("employee_id") == target_emp_id), {})
 
+    
     # 4. Map the raw JSON rows into the 4 schemas required by predictor.py
     insider_data = {
         "employee_department": insider_rec.get("employee_department", 0),
@@ -87,13 +90,23 @@ def analyze_single_employee(target_emp_id):
         "Payment_Method": reimburse_rec.get("Payment_Method", 0)
     }
 
+    position = employee_profile.get("position", "Manager")
+
+    position_mapping = {
+        "Senior": "Senior Staff"
+    }
+
+    position = position_mapping.get(position, position)
+
     payroll_data = {
         "department": employee_profile.get("department", "Finance"),
-        "position": employee_profile.get("position", "Manager"),
+        "position": position,
         "salary_system": payroll_rec.get("salary_system", 0),
         "salary_received": payroll_rec.get("salary_received", 0),
         "salary_difference": payroll_rec.get("salary_difference", 0)
     }
+
+    
 
     # 5. Send the dynamic dictionaries to predictor.py
     probabilities = predict_all(insider_data, procurement_data, reimbursement_data, payroll_data)
@@ -110,10 +123,13 @@ def analyze_single_employee(target_emp_id):
     report["employee_name"] = employee_profile["employee_name"]
     return report, probabilities
 
-# Standalone execution validation block
+
+
+
+#  Standalone execution validation block
 if __name__ == "__main__":
     test_id = "EMP1000"  # Raka Saputra
-    print(f"🔄 Scanning master JSON logs for ID: {test_id}...\n")
+    print(f"Scanning master JSON logs for ID: {test_id}...\n")
     
     results_bundle = analyze_single_employee(test_id)
     if results_bundle:
