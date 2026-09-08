@@ -92,7 +92,10 @@ def composite_score_gauge(score: float, risk_level: str) -> go.Figure:
 
 
 def domain_probability_bar(labels, values, title="Model Output Comparison") -> go.Figure:
-    sorted_pairs = sorted(zip(labels, values), key=lambda x: x[1])
+    available_pairs = [(label, value) for label, value in zip(labels, values) if value is not None]
+    if not available_pairs:
+        return go.Figure().update_layout(title=title, height=280, xaxis_title="Probability (%)", xaxis_range=[0, 100])
+    sorted_pairs = sorted(available_pairs, key=lambda x: x[1])
     labels_s, values_s = zip(*sorted_pairs)
     colors = [
         COLOR_NAVY if v >= 0.7 else COLOR_BLUE_600 if v >= 0.4 else COLOR_BLUE_400

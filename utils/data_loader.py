@@ -95,11 +95,14 @@ def compute_population_risk(employee_ids: tuple) -> pd.DataFrame:
         return pd.DataFrame()
 
     rows = []
+    failures = []
     for emp_id in employee_ids:
         try:
-            report, probs = backend["main"].analyze_single_employee(emp_id)
-            if report is None:
+            result = backend["main"].analyze_single_employee(emp_id)
+            if result is None:
+                failures.append(f"{emp_id}: employee record not found")
                 continue
+            report, probs = result
             rows.append(
                 {
                     "employee_id": emp_id,
@@ -113,8 +116,16 @@ def compute_population_risk(employee_ids: tuple) -> pd.DataFrame:
                     "reasons": "; ".join(report["reasons"]),
                 }
             )
-        except Exception:
-            continue
+        except Exception as exc:
+            failures.append(f"{emp_id}: {exc}")
+
+    if failures and not rows:
+        raise RuntimeError("Population scoring failed for every employee. First failures: " + " | ".join(failures[:5]))
+    if failures:
+        # Do not hide systemic failures; successful employee scores remain usable.
+        # The failure details are retained in the dataframe for diagnostics without
+        # changing the existing page layout.
+        print("Population scoring failures: " + " | ".join(failures[:20]))
 
     return pd.DataFrame(rows)
 
